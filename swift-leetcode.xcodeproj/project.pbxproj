@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		A0122D87221A82F400D87CF1 /* Add Two Numbers.swift in Sources */ = {isa = PBXBuildFile; fileRef = A0122D86221A82F400D87CF1 /* Add Two Numbers.swift */; };
 		A0122D89221A8DDA00D87CF1 /* Max Increase to Keep City Skyline.swift in Sources */ = {isa = PBXBuildFile; fileRef = A0122D88221A8DDA00D87CF1 /* Max Increase to Keep City Skyline.swift */; };
+		A0122D8B221A935A00D87CF1 /* Range Sum of BST.swift in Sources */ = {isa = PBXBuildFile; fileRef = A0122D8A221A935A00D87CF1 /* Range Sum of BST.swift */; };
 		A040DE4C2218FC3F00763BDC /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = A040DE4B2218FC3E00763BDC /* main.swift */; };
 		A040DE542218FD8200763BDC /* DI String Match.swift in Sources */ = {isa = PBXBuildFile; fileRef = A040DE532218FD8200763BDC /* DI String Match.swift */; };
 		A040DE562218FDAD00763BDC /* Robot Return to Origin.swift in Sources */ = {isa = PBXBuildFile; fileRef = A040DE552218FDAD00763BDC /* Robot Return to Origin.swift */; };
@@ -38,6 +39,7 @@
 /* Begin PBXFileReference section */
 		A0122D86221A82F400D87CF1 /* Add Two Numbers.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Add Two Numbers.swift"; sourceTree = "<group>"; };
 		A0122D88221A8DDA00D87CF1 /* Max Increase to Keep City Skyline.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Max Increase to Keep City Skyline.swift"; sourceTree = "<group>"; };
+		A0122D8A221A935A00D87CF1 /* Range Sum of BST.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Range Sum of BST.swift"; sourceTree = "<group>"; };
 		A040DE482218FC3E00763BDC /* swift-leetcode */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "swift-leetcode"; sourceTree = BUILT_PRODUCTS_DIR; };
 		A040DE4B2218FC3E00763BDC /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		A040DE532218FD8200763BDC /* DI String Match.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "DI String Match.swift"; sourceTree = "<group>"; };
@@ -69,6 +71,7 @@
 			children = (
 				A0122D86221A82F400D87CF1 /* Add Two Numbers.swift */,
 				A0122D88221A8DDA00D87CF1 /* Max Increase to Keep City Skyline.swift */,
+				A0122D8A221A935A00D87CF1 /* Range Sum of BST.swift */,
 			);
 			path = Medium;
 			sourceTree = "<group>";
@@ -175,6 +178,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				A040DE642218FE6100763BDC /* Unique Email Addresses.swift in Sources */,
+				A0122D8B221A935A00D87CF1 /* Range Sum of BST.swift in Sources */,
 				A040DE4C2218FC3F00763BDC /* main.swift in Sources */,
 				A040DE5A2218FDEA00763BDC /* Sort Array By Parity.swift in Sources */,
 				A040DE682218FE9800763BDC /* Jewels and Stones.swift in Sources */,
