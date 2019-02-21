@@ -8,36 +8,7 @@
 
 import Foundation
 
-public class TreeNode {
-    public var val: Int
-    public var left: TreeNode?
-    public var right: TreeNode?
-    public init(_ val: Int) {
-        self.val = val
-        self.left = nil
-        self.right = nil
-    }
-}
-
 // MARK: 栈
-public struct Stack<T> {
-    fileprivate var array = [T]()
-    public var isEmpty: Bool {
-        return array.isEmpty
-    }
-    public var count: Int {
-        return array.count
-    }
-    public mutating func push(_ element: T) {
-        array.append(element)
-    }
-    public mutating func pop() -> T? {
-        return array.popLast()
-    }
-    public var top: T? {
-        return array.last
-    }
-}
 
 func rangeSumBST(_ root: TreeNode?, _ L: Int, _ R: Int) -> Int {
     var sum = 0
