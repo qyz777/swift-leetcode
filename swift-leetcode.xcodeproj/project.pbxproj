@@ -10,6 +10,7 @@
 		A0065A30221E479400B2CEBD /* Maximum Binary Tree.swift in Sources */ = {isa = PBXBuildFile; fileRef = A0065A2F221E479400B2CEBD /* Maximum Binary Tree.swift */; };
 		A0065A32221E47C900B2CEBD /* TreeNode.swift in Sources */ = {isa = PBXBuildFile; fileRef = A0065A31221E47C900B2CEBD /* TreeNode.swift */; };
 		A0065A34221E47ED00B2CEBD /* Stack.swift in Sources */ = {isa = PBXBuildFile; fileRef = A0065A33221E47ED00B2CEBD /* Stack.swift */; };
+		A0065A36221F86F100B2CEBD /* Insert into a Binary Search Tree.swift in Sources */ = {isa = PBXBuildFile; fileRef = A0065A35221F86F100B2CEBD /* Insert into a Binary Search Tree.swift */; };
 		A0122D87221A82F400D87CF1 /* Add Two Numbers.swift in Sources */ = {isa = PBXBuildFile; fileRef = A0122D86221A82F400D87CF1 /* Add Two Numbers.swift */; };
 		A0122D89221A8DDA00D87CF1 /* Max Increase to Keep City Skyline.swift in Sources */ = {isa = PBXBuildFile; fileRef = A0122D88221A8DDA00D87CF1 /* Max Increase to Keep City Skyline.swift */; };
 		A0122D8B221A935A00D87CF1 /* Range Sum of BST.swift in Sources */ = {isa = PBXBuildFile; fileRef = A0122D8A221A935A00D87CF1 /* Range Sum of BST.swift */; };
@@ -44,6 +45,7 @@
 		A0065A2F221E479400B2CEBD /* Maximum Binary Tree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Maximum Binary Tree.swift"; sourceTree = "<group>"; };
 		A0065A31221E47C900B2CEBD /* TreeNode.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TreeNode.swift; sourceTree = "<group>"; };
 		A0065A33221E47ED00B2CEBD /* Stack.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Stack.swift; sourceTree = "<group>"; };
+		A0065A35221F86F100B2CEBD /* Insert into a Binary Search Tree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Insert into a Binary Search Tree.swift"; sourceTree = "<group>"; };
 		A0122D86221A82F400D87CF1 /* Add Two Numbers.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Add Two Numbers.swift"; sourceTree = "<group>"; };
 		A0122D88221A8DDA00D87CF1 /* Max Increase to Keep City Skyline.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Max Increase to Keep City Skyline.swift"; sourceTree = "<group>"; };
 		A0122D8A221A935A00D87CF1 /* Range Sum of BST.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Range Sum of BST.swift"; sourceTree = "<group>"; };
@@ -81,6 +83,7 @@
 				A0122D88221A8DDA00D87CF1 /* Max Increase to Keep City Skyline.swift */,
 				A0122D8A221A935A00D87CF1 /* Range Sum of BST.swift */,
 				A0065A2F221E479400B2CEBD /* Maximum Binary Tree.swift */,
+				A0065A35221F86F100B2CEBD /* Insert into a Binary Search Tree.swift */,
 			);
 			path = Medium;
 			sourceTree = "<group>";
@@ -193,6 +196,7 @@
 				A040DE642218FE6100763BDC /* Unique Email Addresses.swift in Sources */,
 				A0122D8B221A935A00D87CF1 /* Range Sum of BST.swift in Sources */,
 				A040DE4C2218FC3F00763BDC /* main.swift in Sources */,
+				A0065A36221F86F100B2CEBD /* Insert into a Binary Search Tree.swift in Sources */,
 				A040DE5A2218FDEA00763BDC /* Sort Array By Parity.swift in Sources */,
 				A040DE682218FE9800763BDC /* Jewels and Stones.swift in Sources */,
 				A0122D89221A8DDA00D87CF1 /* Max Increase to Keep City Skyline.swift in Sources */,
