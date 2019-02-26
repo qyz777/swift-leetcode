@@ -28,6 +28,7 @@
 		A040DE642218FE6100763BDC /* Unique Email Addresses.swift in Sources */ = {isa = PBXBuildFile; fileRef = A040DE632218FE6100763BDC /* Unique Email Addresses.swift */; };
 		A040DE662218FE8600763BDC /* Two Sum.swift in Sources */ = {isa = PBXBuildFile; fileRef = A040DE652218FE8600763BDC /* Two Sum.swift */; };
 		A040DE682218FE9800763BDC /* Jewels and Stones.swift in Sources */ = {isa = PBXBuildFile; fileRef = A040DE672218FE9800763BDC /* Jewels and Stones.swift */; };
+		A0FAF2512225764B006563AD /* Find and Replace Pattern.swift in Sources */ = {isa = PBXBuildFile; fileRef = A0FAF2502225764B006563AD /* Find and Replace Pattern.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -65,6 +66,7 @@
 		A040DE632218FE6100763BDC /* Unique Email Addresses.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Unique Email Addresses.swift"; sourceTree = "<group>"; };
 		A040DE652218FE8600763BDC /* Two Sum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Two Sum.swift"; sourceTree = "<group>"; };
 		A040DE672218FE9800763BDC /* Jewels and Stones.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Jewels and Stones.swift"; sourceTree = "<group>"; };
+		A0FAF2502225764B006563AD /* Find and Replace Pattern.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Find and Replace Pattern.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -87,6 +89,7 @@
 				A0065A2F221E479400B2CEBD /* Maximum Binary Tree.swift */,
 				A0065A35221F86F100B2CEBD /* Insert into a Binary Search Tree.swift */,
 				A0065A37221FC9EF00B2CEBD /* Reveal Cards In Increasing Order.swift */,
+				A0FAF2502225764B006563AD /* Find and Replace Pattern.swift */,
 			);
 			path = Medium;
 			sourceTree = "<group>";
@@ -196,6 +199,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				A0065A30221E479400B2CEBD /* Maximum Binary Tree.swift in Sources */,
+				A0FAF2512225764B006563AD /* Find and Replace Pattern.swift in Sources */,
 				A040DE642218FE6100763BDC /* Unique Email Addresses.swift in Sources */,
 				A0122D8B221A935A00D87CF1 /* Range Sum of BST.swift in Sources */,
 				A040DE4C2218FC3F00763BDC /* main.swift in Sources */,
