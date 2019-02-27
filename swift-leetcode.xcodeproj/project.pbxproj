@@ -29,6 +29,7 @@
 		A040DE662218FE8600763BDC /* Two Sum.swift in Sources */ = {isa = PBXBuildFile; fileRef = A040DE652218FE8600763BDC /* Two Sum.swift */; };
 		A040DE682218FE9800763BDC /* Jewels and Stones.swift in Sources */ = {isa = PBXBuildFile; fileRef = A040DE672218FE9800763BDC /* Jewels and Stones.swift */; };
 		A0FAF2512225764B006563AD /* Find and Replace Pattern.swift in Sources */ = {isa = PBXBuildFile; fileRef = A0FAF2502225764B006563AD /* Find and Replace Pattern.swift */; };
+		A0FAF2532226C065006563AD /* Binary Tree Pruning.swift in Sources */ = {isa = PBXBuildFile; fileRef = A0FAF2522226C065006563AD /* Binary Tree Pruning.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -67,6 +68,7 @@
 		A040DE652218FE8600763BDC /* Two Sum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Two Sum.swift"; sourceTree = "<group>"; };
 		A040DE672218FE9800763BDC /* Jewels and Stones.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Jewels and Stones.swift"; sourceTree = "<group>"; };
 		A0FAF2502225764B006563AD /* Find and Replace Pattern.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Find and Replace Pattern.swift"; sourceTree = "<group>"; };
+		A0FAF2522226C065006563AD /* Binary Tree Pruning.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Binary Tree Pruning.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -90,6 +92,7 @@
 				A0065A35221F86F100B2CEBD /* Insert into a Binary Search Tree.swift */,
 				A0065A37221FC9EF00B2CEBD /* Reveal Cards In Increasing Order.swift */,
 				A0FAF2502225764B006563AD /* Find and Replace Pattern.swift */,
+				A0FAF2522226C065006563AD /* Binary Tree Pruning.swift */,
 			);
 			path = Medium;
 			sourceTree = "<group>";
@@ -206,6 +209,7 @@
 				A0065A36221F86F100B2CEBD /* Insert into a Binary Search Tree.swift in Sources */,
 				A040DE5A2218FDEA00763BDC /* Sort Array By Parity.swift in Sources */,
 				A040DE682218FE9800763BDC /* Jewels and Stones.swift in Sources */,
+				A0FAF2532226C065006563AD /* Binary Tree Pruning.swift in Sources */,
 				A0122D89221A8DDA00D87CF1 /* Max Increase to Keep City Skyline.swift in Sources */,
 				A040DE582218FDD000763BDC /* Flipping an Image.swift in Sources */,
 				A040DE542218FD8200763BDC /* DI String Match.swift in Sources */,
