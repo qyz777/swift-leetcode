@@ -30,6 +30,7 @@
 		A040DE682218FE9800763BDC /* Jewels and Stones.swift in Sources */ = {isa = PBXBuildFile; fileRef = A040DE672218FE9800763BDC /* Jewels and Stones.swift */; };
 		A0FAF2512225764B006563AD /* Find and Replace Pattern.swift in Sources */ = {isa = PBXBuildFile; fileRef = A0FAF2502225764B006563AD /* Find and Replace Pattern.swift */; };
 		A0FAF2532226C065006563AD /* Binary Tree Pruning.swift in Sources */ = {isa = PBXBuildFile; fileRef = A0FAF2522226C065006563AD /* Binary Tree Pruning.swift */; };
+		A0FAF25522281201006563AD /* All Paths From Source to Target.swift in Sources */ = {isa = PBXBuildFile; fileRef = A0FAF25422281201006563AD /* All Paths From Source to Target.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -69,6 +70,7 @@
 		A040DE672218FE9800763BDC /* Jewels and Stones.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Jewels and Stones.swift"; sourceTree = "<group>"; };
 		A0FAF2502225764B006563AD /* Find and Replace Pattern.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Find and Replace Pattern.swift"; sourceTree = "<group>"; };
 		A0FAF2522226C065006563AD /* Binary Tree Pruning.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Binary Tree Pruning.swift"; sourceTree = "<group>"; };
+		A0FAF25422281201006563AD /* All Paths From Source to Target.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "All Paths From Source to Target.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -93,6 +95,7 @@
 				A0065A37221FC9EF00B2CEBD /* Reveal Cards In Increasing Order.swift */,
 				A0FAF2502225764B006563AD /* Find and Replace Pattern.swift */,
 				A0FAF2522226C065006563AD /* Binary Tree Pruning.swift */,
+				A0FAF25422281201006563AD /* All Paths From Source to Target.swift */,
 			);
 			path = Medium;
 			sourceTree = "<group>";
@@ -201,6 +204,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A0FAF25522281201006563AD /* All Paths From Source to Target.swift in Sources */,
 				A0065A30221E479400B2CEBD /* Maximum Binary Tree.swift in Sources */,
 				A0FAF2512225764B006563AD /* Find and Replace Pattern.swift in Sources */,
 				A040DE642218FE6100763BDC /* Unique Email Addresses.swift in Sources */,
