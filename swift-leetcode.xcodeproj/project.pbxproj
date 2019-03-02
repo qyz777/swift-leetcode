@@ -16,6 +16,7 @@
 		A0122D89221A8DDA00D87CF1 /* Max Increase to Keep City Skyline.swift in Sources */ = {isa = PBXBuildFile; fileRef = A0122D88221A8DDA00D87CF1 /* Max Increase to Keep City Skyline.swift */; };
 		A0122D8B221A935A00D87CF1 /* Range Sum of BST.swift in Sources */ = {isa = PBXBuildFile; fileRef = A0122D8A221A935A00D87CF1 /* Range Sum of BST.swift */; };
 		A0122E0B221E3D3900D87CF1 /* Reversal ListNode.swift in Sources */ = {isa = PBXBuildFile; fileRef = A0122E0A221E3D3900D87CF1 /* Reversal ListNode.swift */; };
+		A012599A222A1862001F2CFF /* All Possible Full Binary Trees.swift in Sources */ = {isa = PBXBuildFile; fileRef = A0125999222A1862001F2CFF /* All Possible Full Binary Trees.swift */; };
 		A040DE4C2218FC3F00763BDC /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = A040DE4B2218FC3E00763BDC /* main.swift */; };
 		A040DE542218FD8200763BDC /* DI String Match.swift in Sources */ = {isa = PBXBuildFile; fileRef = A040DE532218FD8200763BDC /* DI String Match.swift */; };
 		A040DE562218FDAD00763BDC /* Robot Return to Origin.swift in Sources */ = {isa = PBXBuildFile; fileRef = A040DE552218FDAD00763BDC /* Robot Return to Origin.swift */; };
@@ -55,6 +56,7 @@
 		A0122D88221A8DDA00D87CF1 /* Max Increase to Keep City Skyline.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Max Increase to Keep City Skyline.swift"; sourceTree = "<group>"; };
 		A0122D8A221A935A00D87CF1 /* Range Sum of BST.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Range Sum of BST.swift"; sourceTree = "<group>"; };
 		A0122E0A221E3D3900D87CF1 /* Reversal ListNode.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Reversal ListNode.swift"; sourceTree = "<group>"; };
+		A0125999222A1862001F2CFF /* All Possible Full Binary Trees.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "All Possible Full Binary Trees.swift"; sourceTree = "<group>"; };
 		A040DE482218FC3E00763BDC /* swift-leetcode */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "swift-leetcode"; sourceTree = BUILT_PRODUCTS_DIR; };
 		A040DE4B2218FC3E00763BDC /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		A040DE532218FD8200763BDC /* DI String Match.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "DI String Match.swift"; sourceTree = "<group>"; };
@@ -96,6 +98,7 @@
 				A0FAF2502225764B006563AD /* Find and Replace Pattern.swift */,
 				A0FAF2522226C065006563AD /* Binary Tree Pruning.swift */,
 				A0FAF25422281201006563AD /* All Paths From Source to Target.swift */,
+				A0125999222A1862001F2CFF /* All Possible Full Binary Trees.swift */,
 			);
 			path = Medium;
 			sourceTree = "<group>";
@@ -228,6 +231,7 @@
 				A040DE622218FE4B00763BDC /* To Lower Case.swift in Sources */,
 				A0065A34221E47ED00B2CEBD /* Stack.swift in Sources */,
 				A040DE602218FE3400763BDC /* Unique Morse Code Words.swift in Sources */,
+				A012599A222A1862001F2CFF /* All Possible Full Binary Trees.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
