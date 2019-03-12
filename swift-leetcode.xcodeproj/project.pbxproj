@@ -24,6 +24,7 @@
 		A02154F3223698CC009352CB /* Sort List.swift in Sources */ = {isa = PBXBuildFile; fileRef = A02154F2223698CC009352CB /* Sort List.swift */; };
 		A02154F72236A0DC009352CB /* Middle of the Linked List.swift in Sources */ = {isa = PBXBuildFile; fileRef = A02154F62236A0DC009352CB /* Middle of the Linked List.swift */; };
 		A02154F92236A4D6009352CB /* Odd Even Linked List.swift in Sources */ = {isa = PBXBuildFile; fileRef = A02154F82236A4D6009352CB /* Odd Even Linked List.swift */; };
+		A02154FC2237EB99009352CB /* Reverse Nodes in k-Group.swift in Sources */ = {isa = PBXBuildFile; fileRef = A02154FB2237EB99009352CB /* Reverse Nodes in k-Group.swift */; };
 		A040DE4C2218FC3F00763BDC /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = A040DE4B2218FC3E00763BDC /* main.swift */; };
 		A040DE542218FD8200763BDC /* DI String Match.swift in Sources */ = {isa = PBXBuildFile; fileRef = A040DE532218FD8200763BDC /* DI String Match.swift */; };
 		A040DE562218FDAD00763BDC /* Robot Return to Origin.swift in Sources */ = {isa = PBXBuildFile; fileRef = A040DE552218FDAD00763BDC /* Robot Return to Origin.swift */; };
@@ -71,6 +72,7 @@
 		A02154F2223698CC009352CB /* Sort List.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Sort List.swift"; sourceTree = "<group>"; };
 		A02154F62236A0DC009352CB /* Middle of the Linked List.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Middle of the Linked List.swift"; sourceTree = "<group>"; };
 		A02154F82236A4D6009352CB /* Odd Even Linked List.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Odd Even Linked List.swift"; sourceTree = "<group>"; };
+		A02154FB2237EB99009352CB /* Reverse Nodes in k-Group.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Reverse Nodes in k-Group.swift"; sourceTree = "<group>"; };
 		A040DE482218FC3E00763BDC /* swift-leetcode */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "swift-leetcode"; sourceTree = BUILT_PRODUCTS_DIR; };
 		A040DE4B2218FC3E00763BDC /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		A040DE532218FD8200763BDC /* DI String Match.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "DI String Match.swift"; sourceTree = "<group>"; };
@@ -122,6 +124,14 @@
 			path = Medium;
 			sourceTree = "<group>";
 		};
+		A02154FA2237EB66009352CB /* Hard */ = {
+			isa = PBXGroup;
+			children = (
+				A02154FB2237EB99009352CB /* Reverse Nodes in k-Group.swift */,
+			);
+			path = Hard;
+			sourceTree = "<group>";
+		};
 		A040DE3F2218FC3E00763BDC = {
 			isa = PBXGroup;
 			children = (
@@ -141,6 +151,7 @@
 		A040DE4A2218FC3E00763BDC /* swift-leetcode */ = {
 			isa = PBXGroup;
 			children = (
+				A02154FA2237EB66009352CB /* Hard */,
 				A0122D85221A82F400D87CF1 /* Medium */,
 				A040DE522218FD7800763BDC /* Easy */,
 				A040DE4B2218FC3E00763BDC /* main.swift */,
@@ -255,6 +266,7 @@
 				A02154F122369845009352CB /* Reverse Linked List.swift in Sources */,
 				A040DE562218FDAD00763BDC /* Robot Return to Origin.swift in Sources */,
 				A02154F3223698CC009352CB /* Sort List.swift in Sources */,
+				A02154FC2237EB99009352CB /* Reverse Nodes in k-Group.swift in Sources */,
 				A040DE622218FE4B00763BDC /* To Lower Case.swift in Sources */,
 				A0156CCF222BA9E4002356DF /* Partition Labels.swift in Sources */,
 				A0065A34221E47ED00B2CEBD /* Stack.swift in Sources */,
