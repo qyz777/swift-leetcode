@@ -25,6 +25,7 @@
 		A02154F72236A0DC009352CB /* Middle of the Linked List.swift in Sources */ = {isa = PBXBuildFile; fileRef = A02154F62236A0DC009352CB /* Middle of the Linked List.swift */; };
 		A02154F92236A4D6009352CB /* Odd Even Linked List.swift in Sources */ = {isa = PBXBuildFile; fileRef = A02154F82236A4D6009352CB /* Odd Even Linked List.swift */; };
 		A02154FC2237EB99009352CB /* Reverse Nodes in k-Group.swift in Sources */ = {isa = PBXBuildFile; fileRef = A02154FB2237EB99009352CB /* Reverse Nodes in k-Group.swift */; };
+		A02155002238F843009352CB /* 92.swift in Sources */ = {isa = PBXBuildFile; fileRef = A02154FF2238F843009352CB /* 92.swift */; };
 		A040DE4C2218FC3F00763BDC /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = A040DE4B2218FC3E00763BDC /* main.swift */; };
 		A040DE542218FD8200763BDC /* DI String Match.swift in Sources */ = {isa = PBXBuildFile; fileRef = A040DE532218FD8200763BDC /* DI String Match.swift */; };
 		A040DE562218FDAD00763BDC /* Robot Return to Origin.swift in Sources */ = {isa = PBXBuildFile; fileRef = A040DE552218FDAD00763BDC /* Robot Return to Origin.swift */; };
@@ -73,6 +74,7 @@
 		A02154F62236A0DC009352CB /* Middle of the Linked List.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Middle of the Linked List.swift"; sourceTree = "<group>"; };
 		A02154F82236A4D6009352CB /* Odd Even Linked List.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Odd Even Linked List.swift"; sourceTree = "<group>"; };
 		A02154FB2237EB99009352CB /* Reverse Nodes in k-Group.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Reverse Nodes in k-Group.swift"; sourceTree = "<group>"; };
+		A02154FF2238F843009352CB /* 92.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 92.swift; sourceTree = "<group>"; };
 		A040DE482218FC3E00763BDC /* swift-leetcode */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "swift-leetcode"; sourceTree = BUILT_PRODUCTS_DIR; };
 		A040DE4B2218FC3E00763BDC /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		A040DE532218FD8200763BDC /* DI String Match.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "DI String Match.swift"; sourceTree = "<group>"; };
@@ -120,6 +122,7 @@
 				A0156CD0222BB6A9002356DF /* Distribute Coins in Binary Tree.swift */,
 				A02154F2223698CC009352CB /* Sort List.swift */,
 				A02154F82236A4D6009352CB /* Odd Even Linked List.swift */,
+				A02154FF2238F843009352CB /* 92.swift */,
 			);
 			path = Medium;
 			sourceTree = "<group>";
@@ -251,6 +254,7 @@
 				A040DE5A2218FDEA00763BDC /* Sort Array By Parity.swift in Sources */,
 				A040DE682218FE9800763BDC /* Jewels and Stones.swift in Sources */,
 				A0FAF2532226C065006563AD /* Binary Tree Pruning.swift in Sources */,
+				A02155002238F843009352CB /* 92.swift in Sources */,
 				A01259A0222B6E65001F2CFF /* Score After Flipping Matrix.swift in Sources */,
 				A02154F92236A4D6009352CB /* Odd Even Linked List.swift in Sources */,
 				A0122D89221A8DDA00D87CF1 /* Max Increase to Keep City Skyline.swift in Sources */,
