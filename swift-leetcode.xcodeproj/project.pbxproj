@@ -29,6 +29,7 @@
 		A026D1A6223E2E4000E5E4C1 /* 817.swift in Sources */ = {isa = PBXBuildFile; fileRef = A026D1A5223E2E4000E5E4C1 /* 817.swift */; };
 		A026D1A8223E36B900E5E4C1 /* 24.swift in Sources */ = {isa = PBXBuildFile; fileRef = A026D1A7223E36B900E5E4C1 /* 24.swift */; };
 		A026D1AA223E421D00E5E4C1 /* 19.swift in Sources */ = {isa = PBXBuildFile; fileRef = A026D1A9223E421D00E5E4C1 /* 19.swift */; };
+		A026D1AC223E4ED300E5E4C1 /* 234.swift in Sources */ = {isa = PBXBuildFile; fileRef = A026D1AB223E4ED300E5E4C1 /* 234.swift */; };
 		A040DE4C2218FC3F00763BDC /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = A040DE4B2218FC3E00763BDC /* main.swift */; };
 		A040DE542218FD8200763BDC /* DI String Match.swift in Sources */ = {isa = PBXBuildFile; fileRef = A040DE532218FD8200763BDC /* DI String Match.swift */; };
 		A040DE562218FDAD00763BDC /* Robot Return to Origin.swift in Sources */ = {isa = PBXBuildFile; fileRef = A040DE552218FDAD00763BDC /* Robot Return to Origin.swift */; };
@@ -81,6 +82,7 @@
 		A026D1A5223E2E4000E5E4C1 /* 817.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 817.swift; sourceTree = "<group>"; };
 		A026D1A7223E36B900E5E4C1 /* 24.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 24.swift; sourceTree = "<group>"; };
 		A026D1A9223E421D00E5E4C1 /* 19.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 19.swift; sourceTree = "<group>"; };
+		A026D1AB223E4ED300E5E4C1 /* 234.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 234.swift; sourceTree = "<group>"; };
 		A040DE482218FC3E00763BDC /* swift-leetcode */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "swift-leetcode"; sourceTree = BUILT_PRODUCTS_DIR; };
 		A040DE4B2218FC3E00763BDC /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		A040DE532218FD8200763BDC /* DI String Match.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "DI String Match.swift"; sourceTree = "<group>"; };
@@ -190,6 +192,7 @@
 				A040DE652218FE8600763BDC /* Two Sum.swift */,
 				A040DE672218FE9800763BDC /* Jewels and Stones.swift */,
 				A02154F022369845009352CB /* Reverse Linked List.swift */,
+				A026D1AB223E4ED300E5E4C1 /* 234.swift */,
 			);
 			path = Easy;
 			sourceTree = "<group>";
@@ -272,6 +275,7 @@
 				A0065A38221FC9EF00B2CEBD /* Reveal Cards In Increasing Order.swift in Sources */,
 				A0122E0B221E3D3900D87CF1 /* Reversal ListNode.swift in Sources */,
 				A040DE5C2218FE0700763BDC /* N-Repeated Element in Size 2N Array.swift in Sources */,
+				A026D1AC223E4ED300E5E4C1 /* 234.swift in Sources */,
 				A0065A32221E47C900B2CEBD /* TreeNode.swift in Sources */,
 				A040DE662218FE8600763BDC /* Two Sum.swift in Sources */,
 				A0122D87221A82F400D87CF1 /* Add Two Numbers.swift in Sources */,
