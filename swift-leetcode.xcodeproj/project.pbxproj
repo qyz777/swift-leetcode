@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		A001B6D7223F8AEE00D18968 /* TreeOrder.swift in Sources */ = {isa = PBXBuildFile; fileRef = A001B6D6223F8AEE00D18968 /* TreeOrder.swift */; };
 		A0065A30221E479400B2CEBD /* Maximum Binary Tree.swift in Sources */ = {isa = PBXBuildFile; fileRef = A0065A2F221E479400B2CEBD /* Maximum Binary Tree.swift */; };
 		A0065A32221E47C900B2CEBD /* TreeNode.swift in Sources */ = {isa = PBXBuildFile; fileRef = A0065A31221E47C900B2CEBD /* TreeNode.swift */; };
 		A0065A34221E47ED00B2CEBD /* Stack.swift in Sources */ = {isa = PBXBuildFile; fileRef = A0065A33221E47ED00B2CEBD /* Stack.swift */; };
@@ -60,6 +61,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		A001B6D6223F8AEE00D18968 /* TreeOrder.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TreeOrder.swift; sourceTree = "<group>"; };
 		A0065A2F221E479400B2CEBD /* Maximum Binary Tree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Maximum Binary Tree.swift"; sourceTree = "<group>"; };
 		A0065A31221E47C900B2CEBD /* TreeNode.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TreeNode.swift; sourceTree = "<group>"; };
 		A0065A33221E47ED00B2CEBD /* Stack.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Stack.swift; sourceTree = "<group>"; };
@@ -112,6 +114,14 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		A001B6D5223F8AD300D18968 /* TreeOrder */ = {
+			isa = PBXGroup;
+			children = (
+				A001B6D6223F8AEE00D18968 /* TreeOrder.swift */,
+			);
+			path = TreeOrder;
+			sourceTree = "<group>";
+		};
 		A0122D85221A82F400D87CF1 /* Medium */ = {
 			isa = PBXGroup;
 			children = (
@@ -165,6 +175,7 @@
 		A040DE4A2218FC3E00763BDC /* swift-leetcode */ = {
 			isa = PBXGroup;
 			children = (
+				A001B6D5223F8AD300D18968 /* TreeOrder */,
 				A02154FA2237EB66009352CB /* Hard */,
 				A0122D85221A82F400D87CF1 /* Medium */,
 				A040DE522218FD7800763BDC /* Easy */,
@@ -292,6 +303,7 @@
 				A040DE602218FE3400763BDC /* Unique Morse Code Words.swift in Sources */,
 				A026D1A6223E2E4000E5E4C1 /* 817.swift in Sources */,
 				A012599A222A1862001F2CFF /* All Possible Full Binary Trees.swift in Sources */,
+				A001B6D7223F8AEE00D18968 /* TreeOrder.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
