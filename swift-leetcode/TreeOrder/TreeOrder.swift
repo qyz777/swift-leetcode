@@ -62,3 +62,29 @@ func preOrderNoRecursive(_ head: TreeNode?) {
         }
     }
 }
+
+func inOrder(_ head: TreeNode?) {
+    guard head != nil else {
+        return
+    }
+    inOrder(head?.left)
+    print(head!.val)
+    inOrder(head?.right)
+}
+
+func inOrderNoRecursive(_ head: TreeNode?) {
+    guard head != nil else {
+        return
+    }
+    var stack: Stack<TreeNode> = Stack()
+    var cur = head
+    while !stack.isEmpty || cur != nil {
+        while cur != nil {
+            stack.push(cur!)
+            cur = cur?.left
+        }
+        cur = stack.pop()
+        print(cur!.val)
+        cur = cur?.right
+    }
+}
