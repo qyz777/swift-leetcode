@@ -88,3 +88,39 @@ func inOrderNoRecursive(_ head: TreeNode?) {
         cur = cur?.right
     }
 }
+
+func postOrder(_ head: TreeNode?) {
+    guard head != nil else {
+        return
+    }
+    if head?.left != nil {
+        postOrder(head?.left)
+    }
+    if head?.right != nil {
+        postOrder(head?.right)
+    }
+    print(head!.val)
+}
+
+func postOrderNoRecursive(_ head: TreeNode?) {
+    guard head != nil else {
+        return
+    }
+    var stack: Stack<TreeNode> = Stack()
+    var cur = head
+    var last: TreeNode?
+    while !stack.isEmpty || cur != nil {
+        while cur != nil {
+            stack.push(cur!)
+            cur = cur?.left
+        }
+        let top = stack.top
+        if top?.right == nil || last?.val == top?.right?.val {
+            _ = stack.pop()
+            print(top!.val)
+            last = top
+        } else {
+            cur = top?.right
+        }
+    }
+}
