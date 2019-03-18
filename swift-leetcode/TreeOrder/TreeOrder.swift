@@ -35,3 +35,30 @@ func levelOrder(_ head: TreeNode?) {
         print(front.val)
     }
 }
+
+func preOrder(_ head: TreeNode?) {
+    guard head != nil else {
+        return
+    }
+    print(head!.val)
+    preOrder(head?.left)
+    preOrder(head?.right)
+}
+
+func preOrderNoRecursive(_ head: TreeNode?) {
+    guard head != nil else {
+        return
+    }
+    var stack: Stack<TreeNode> = Stack()
+    stack.push(head!)
+    while !stack.isEmpty {
+        let node = stack.pop()
+        print(node!.val)
+        if node?.right != nil {
+            stack.push(node!.right!)
+        }
+        if node?.left != nil {
+            stack.push(node!.left!)
+        }
+    }
+}
