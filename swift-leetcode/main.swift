@@ -8,5 +8,4 @@
 
 import Foundation
 
-let nums = [1, 2, 3, 4]
-_ = subsets(nums)
+_ = combine(4, 1)
