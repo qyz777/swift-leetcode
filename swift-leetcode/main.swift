@@ -8,4 +8,4 @@
 
 import Foundation
 
-_ = combine(4, 1)
+
