@@ -21,6 +21,7 @@
 		A01259A0222B6E65001F2CFF /* Score After Flipping Matrix.swift in Sources */ = {isa = PBXBuildFile; fileRef = A012599F222B6E65001F2CFF /* Score After Flipping Matrix.swift */; };
 		A0156CCF222BA9E4002356DF /* Partition Labels.swift in Sources */ = {isa = PBXBuildFile; fileRef = A0156CCE222BA9E4002356DF /* Partition Labels.swift */; };
 		A0156CD1222BB6A9002356DF /* Distribute Coins in Binary Tree.swift in Sources */ = {isa = PBXBuildFile; fileRef = A0156CD0222BB6A9002356DF /* Distribute Coins in Binary Tree.swift */; };
+		A01784C3224CF8E500ACE850 /* 121.swift in Sources */ = {isa = PBXBuildFile; fileRef = A01784C2224CF8E500ACE850 /* 121.swift */; };
 		A02154F122369845009352CB /* Reverse Linked List.swift in Sources */ = {isa = PBXBuildFile; fileRef = A02154F022369845009352CB /* Reverse Linked List.swift */; };
 		A02154F3223698CC009352CB /* Sort List.swift in Sources */ = {isa = PBXBuildFile; fileRef = A02154F2223698CC009352CB /* Sort List.swift */; };
 		A02154F72236A0DC009352CB /* Middle of the Linked List.swift in Sources */ = {isa = PBXBuildFile; fileRef = A02154F62236A0DC009352CB /* Middle of the Linked List.swift */; };
@@ -81,6 +82,7 @@
 		A012599F222B6E65001F2CFF /* Score After Flipping Matrix.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Score After Flipping Matrix.swift"; sourceTree = "<group>"; };
 		A0156CCE222BA9E4002356DF /* Partition Labels.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Partition Labels.swift"; sourceTree = "<group>"; };
 		A0156CD0222BB6A9002356DF /* Distribute Coins in Binary Tree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Distribute Coins in Binary Tree.swift"; sourceTree = "<group>"; };
+		A01784C2224CF8E500ACE850 /* 121.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 121.swift; sourceTree = "<group>"; };
 		A02154F022369845009352CB /* Reverse Linked List.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Reverse Linked List.swift"; sourceTree = "<group>"; };
 		A02154F2223698CC009352CB /* Sort List.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Sort List.swift"; sourceTree = "<group>"; };
 		A02154F62236A0DC009352CB /* Middle of the Linked List.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Middle of the Linked List.swift"; sourceTree = "<group>"; };
@@ -222,6 +224,7 @@
 				A026D1AB223E4ED300E5E4C1 /* 234.swift */,
 				A0781603224BB26F0050B47B /* 53.swift */,
 				A0781605224BB78F0050B47B /* 70.swift */,
+				A01784C2224CF8E500ACE850 /* 121.swift */,
 			);
 			path = Easy;
 			sourceTree = "<group>";
@@ -295,6 +298,7 @@
 				A0065A36221F86F100B2CEBD /* Insert into a Binary Search Tree.swift in Sources */,
 				A040DE5A2218FDEA00763BDC /* Sort Array By Parity.swift in Sources */,
 				A040DE682218FE9800763BDC /* Jewels and Stones.swift in Sources */,
+				A01784C3224CF8E500ACE850 /* 121.swift in Sources */,
 				A0FAF2532226C065006563AD /* Binary Tree Pruning.swift in Sources */,
 				A02155002238F843009352CB /* 92.swift in Sources */,
 				A01259A0222B6E65001F2CFF /* Score After Flipping Matrix.swift in Sources */,
