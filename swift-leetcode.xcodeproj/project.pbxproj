@@ -22,6 +22,7 @@
 		A0156CCF222BA9E4002356DF /* Partition Labels.swift in Sources */ = {isa = PBXBuildFile; fileRef = A0156CCE222BA9E4002356DF /* Partition Labels.swift */; };
 		A0156CD1222BB6A9002356DF /* Distribute Coins in Binary Tree.swift in Sources */ = {isa = PBXBuildFile; fileRef = A0156CD0222BB6A9002356DF /* Distribute Coins in Binary Tree.swift */; };
 		A01784C3224CF8E500ACE850 /* 121.swift in Sources */ = {isa = PBXBuildFile; fileRef = A01784C2224CF8E500ACE850 /* 121.swift */; };
+		A01784C5224D024000ACE850 /* 746.swift in Sources */ = {isa = PBXBuildFile; fileRef = A01784C4224D024000ACE850 /* 746.swift */; };
 		A02154F122369845009352CB /* Reverse Linked List.swift in Sources */ = {isa = PBXBuildFile; fileRef = A02154F022369845009352CB /* Reverse Linked List.swift */; };
 		A02154F3223698CC009352CB /* Sort List.swift in Sources */ = {isa = PBXBuildFile; fileRef = A02154F2223698CC009352CB /* Sort List.swift */; };
 		A02154F72236A0DC009352CB /* Middle of the Linked List.swift in Sources */ = {isa = PBXBuildFile; fileRef = A02154F62236A0DC009352CB /* Middle of the Linked List.swift */; };
@@ -83,6 +84,7 @@
 		A0156CCE222BA9E4002356DF /* Partition Labels.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Partition Labels.swift"; sourceTree = "<group>"; };
 		A0156CD0222BB6A9002356DF /* Distribute Coins in Binary Tree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Distribute Coins in Binary Tree.swift"; sourceTree = "<group>"; };
 		A01784C2224CF8E500ACE850 /* 121.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 121.swift; sourceTree = "<group>"; };
+		A01784C4224D024000ACE850 /* 746.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 746.swift; sourceTree = "<group>"; };
 		A02154F022369845009352CB /* Reverse Linked List.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Reverse Linked List.swift"; sourceTree = "<group>"; };
 		A02154F2223698CC009352CB /* Sort List.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Sort List.swift"; sourceTree = "<group>"; };
 		A02154F62236A0DC009352CB /* Middle of the Linked List.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Middle of the Linked List.swift"; sourceTree = "<group>"; };
@@ -225,6 +227,7 @@
 				A0781603224BB26F0050B47B /* 53.swift */,
 				A0781605224BB78F0050B47B /* 70.swift */,
 				A01784C2224CF8E500ACE850 /* 121.swift */,
+				A01784C4224D024000ACE850 /* 746.swift */,
 			);
 			path = Easy;
 			sourceTree = "<group>";
@@ -314,6 +317,7 @@
 				A0065A32221E47C900B2CEBD /* TreeNode.swift in Sources */,
 				A040DE662218FE8600763BDC /* Two Sum.swift in Sources */,
 				A0122D87221A82F400D87CF1 /* Add Two Numbers.swift in Sources */,
+				A01784C5224D024000ACE850 /* 746.swift in Sources */,
 				A0781604224BB26F0050B47B /* 53.swift in Sources */,
 				A040DE5E2218FE1D00763BDC /* Squares of a Sorted Array.swift in Sources */,
 				A02154F122369845009352CB /* Reverse Linked List.swift in Sources */,
