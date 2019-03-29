@@ -25,6 +25,7 @@
 		A01784C5224D024000ACE850 /* 746.swift in Sources */ = {isa = PBXBuildFile; fileRef = A01784C4224D024000ACE850 /* 746.swift */; };
 		A01A396B224E474B00DD9E73 /* ListNode.swift in Sources */ = {isa = PBXBuildFile; fileRef = A01A396A224E474B00DD9E73 /* ListNode.swift */; };
 		A01A396D224E47FD00DD9E73 /* 445.swift in Sources */ = {isa = PBXBuildFile; fileRef = A01A396C224E47FD00DD9E73 /* 445.swift */; };
+		A01A3971224E550B00DD9E73 /* 62.swift in Sources */ = {isa = PBXBuildFile; fileRef = A01A3970224E550B00DD9E73 /* 62.swift */; };
 		A02154F122369845009352CB /* Reverse Linked List.swift in Sources */ = {isa = PBXBuildFile; fileRef = A02154F022369845009352CB /* Reverse Linked List.swift */; };
 		A02154F3223698CC009352CB /* Sort List.swift in Sources */ = {isa = PBXBuildFile; fileRef = A02154F2223698CC009352CB /* Sort List.swift */; };
 		A02154F72236A0DC009352CB /* Middle of the Linked List.swift in Sources */ = {isa = PBXBuildFile; fileRef = A02154F62236A0DC009352CB /* Middle of the Linked List.swift */; };
@@ -89,6 +90,7 @@
 		A01784C4224D024000ACE850 /* 746.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 746.swift; sourceTree = "<group>"; };
 		A01A396A224E474B00DD9E73 /* ListNode.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListNode.swift; sourceTree = "<group>"; };
 		A01A396C224E47FD00DD9E73 /* 445.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 445.swift; sourceTree = "<group>"; };
+		A01A3970224E550B00DD9E73 /* 62.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 62.swift; sourceTree = "<group>"; };
 		A02154F022369845009352CB /* Reverse Linked List.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Reverse Linked List.swift"; sourceTree = "<group>"; };
 		A02154F2223698CC009352CB /* Sort List.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Sort List.swift"; sourceTree = "<group>"; };
 		A02154F62236A0DC009352CB /* Middle of the Linked List.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Middle of the Linked List.swift"; sourceTree = "<group>"; };
@@ -169,6 +171,7 @@
 				A07815AD224A65D90050B47B /* 39.swift */,
 				A07815AF224A6A3C0050B47B /* 46.swift */,
 				A01A396C224E47FD00DD9E73 /* 445.swift */,
+				A01A3970224E550B00DD9E73 /* 62.swift */,
 			);
 			path = Medium;
 			sourceTree = "<group>";
@@ -338,6 +341,7 @@
 				A07815AE224A65D90050B47B /* 39.swift in Sources */,
 				A0156CCF222BA9E4002356DF /* Partition Labels.swift in Sources */,
 				A0781606224BB78F0050B47B /* 70.swift in Sources */,
+				A01A3971224E550B00DD9E73 /* 62.swift in Sources */,
 				A0065A34221E47ED00B2CEBD /* Stack.swift in Sources */,
 				A040DE602218FE3400763BDC /* Unique Morse Code Words.swift in Sources */,
 				A026D1A6223E2E4000E5E4C1 /* 817.swift in Sources */,
