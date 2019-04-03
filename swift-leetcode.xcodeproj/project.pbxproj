@@ -62,6 +62,7 @@
 		A04E6FC52252331A007547EA /* 103.swift in Sources */ = {isa = PBXBuildFile; fileRef = A04E6FC42252331A007547EA /* 103.swift */; };
 		A04E6FC722523903007547EA /* 513.swift in Sources */ = {isa = PBXBuildFile; fileRef = A04E6FC622523903007547EA /* 513.swift */; };
 		A04E6FC922523C0F007547EA /* 122.swift in Sources */ = {isa = PBXBuildFile; fileRef = A04E6FC822523C0F007547EA /* 122.swift */; };
+		A04E6FCB2254EF13007547EA /* 20.swift in Sources */ = {isa = PBXBuildFile; fileRef = A04E6FCA2254EF13007547EA /* 20.swift */; };
 		A07815AA2249B9170050B47B /* 78.swift in Sources */ = {isa = PBXBuildFile; fileRef = A07815A92249B9170050B47B /* 78.swift */; };
 		A07815AC224A5F600050B47B /* 77.swift in Sources */ = {isa = PBXBuildFile; fileRef = A07815AB224A5F600050B47B /* 77.swift */; };
 		A07815AE224A65D90050B47B /* 39.swift in Sources */ = {isa = PBXBuildFile; fileRef = A07815AD224A65D90050B47B /* 39.swift */; };
@@ -142,6 +143,7 @@
 		A04E6FC42252331A007547EA /* 103.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 103.swift; sourceTree = "<group>"; };
 		A04E6FC622523903007547EA /* 513.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 513.swift; sourceTree = "<group>"; };
 		A04E6FC822523C0F007547EA /* 122.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 122.swift; sourceTree = "<group>"; };
+		A04E6FCA2254EF13007547EA /* 20.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 20.swift; sourceTree = "<group>"; };
 		A07815A92249B9170050B47B /* 78.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 78.swift; sourceTree = "<group>"; };
 		A07815AB224A5F600050B47B /* 77.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 77.swift; sourceTree = "<group>"; };
 		A07815AD224A65D90050B47B /* 39.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 39.swift; sourceTree = "<group>"; };
@@ -279,6 +281,7 @@
 				A04E6FBA2250E38D007547EA /* 101.swift */,
 				A04E6FBE2251FEBD007547EA /* 112.swift */,
 				A04E6FC822523C0F007547EA /* 122.swift */,
+				A04E6FCA2254EF13007547EA /* 20.swift */,
 			);
 			path = Easy;
 			sourceTree = "<group>";
@@ -348,6 +351,7 @@
 				A0FAF2512225764B006563AD /* Find and Replace Pattern.swift in Sources */,
 				A07815AC224A5F600050B47B /* 77.swift in Sources */,
 				A0156CD1222BB6A9002356DF /* Distribute Coins in Binary Tree.swift in Sources */,
+				A04E6FCB2254EF13007547EA /* 20.swift in Sources */,
 				A040DE642218FE6100763BDC /* Unique Email Addresses.swift in Sources */,
 				A0122D8B221A935A00D87CF1 /* Range Sum of BST.swift in Sources */,
 				A01A3973224E5B3B00DD9E73 /* 64.swift in Sources */,
