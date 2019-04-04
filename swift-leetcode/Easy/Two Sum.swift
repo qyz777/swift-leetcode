@@ -9,18 +9,13 @@
 import Foundation
 
 func twoSum(_ nums: [Int], _ target: Int) -> [Int] {
-    var array: [Int] = []
+    var info: [Int: Int] = [:]
     for i in 0..<nums.count {
-        let firstNum = nums[i]
-        if i + 1 < nums.count {
-            for j in (i+1)..<nums.count {
-                let secondNum = nums[j]
-                if firstNum + secondNum == target {
-                    array.append(i)
-                    array.append(j)
-                }
-            }
+        if info[nums[i]] == nil {
+            info[target - nums[i]] = i
+        } else {
+            return [info[nums[i]]!, i]
         }
     }
-    return array
+    return []
 }
