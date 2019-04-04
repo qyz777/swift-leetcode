@@ -22,6 +22,7 @@
 		A0156CCF222BA9E4002356DF /* Partition Labels.swift in Sources */ = {isa = PBXBuildFile; fileRef = A0156CCE222BA9E4002356DF /* Partition Labels.swift */; };
 		A0156CD1222BB6A9002356DF /* Distribute Coins in Binary Tree.swift in Sources */ = {isa = PBXBuildFile; fileRef = A0156CD0222BB6A9002356DF /* Distribute Coins in Binary Tree.swift */; };
 		A017638B2255DAB00086A44D /* 703.swift in Sources */ = {isa = PBXBuildFile; fileRef = A017638A2255DAB00086A44D /* 703.swift */; };
+		A017638D2255E78B0086A44D /* 239.swift in Sources */ = {isa = PBXBuildFile; fileRef = A017638C2255E78B0086A44D /* 239.swift */; };
 		A01784C3224CF8E500ACE850 /* 121.swift in Sources */ = {isa = PBXBuildFile; fileRef = A01784C2224CF8E500ACE850 /* 121.swift */; };
 		A01784C5224D024000ACE850 /* 746.swift in Sources */ = {isa = PBXBuildFile; fileRef = A01784C4224D024000ACE850 /* 746.swift */; };
 		A01A396B224E474B00DD9E73 /* ListNode.swift in Sources */ = {isa = PBXBuildFile; fileRef = A01A396A224E474B00DD9E73 /* ListNode.swift */; };
@@ -108,6 +109,7 @@
 		A0156CCE222BA9E4002356DF /* Partition Labels.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Partition Labels.swift"; sourceTree = "<group>"; };
 		A0156CD0222BB6A9002356DF /* Distribute Coins in Binary Tree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Distribute Coins in Binary Tree.swift"; sourceTree = "<group>"; };
 		A017638A2255DAB00086A44D /* 703.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 703.swift; sourceTree = "<group>"; };
+		A017638C2255E78B0086A44D /* 239.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 239.swift; sourceTree = "<group>"; };
 		A01784C2224CF8E500ACE850 /* 121.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 121.swift; sourceTree = "<group>"; };
 		A01784C4224D024000ACE850 /* 746.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 746.swift; sourceTree = "<group>"; };
 		A01A396A224E474B00DD9E73 /* ListNode.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListNode.swift; sourceTree = "<group>"; };
@@ -232,6 +234,7 @@
 			isa = PBXGroup;
 			children = (
 				A02154FB2237EB99009352CB /* Reverse Nodes in k-Group.swift */,
+				A017638C2255E78B0086A44D /* 239.swift */,
 			);
 			path = Hard;
 			sourceTree = "<group>";
@@ -419,6 +422,7 @@
 				A07815AE224A65D90050B47B /* 39.swift in Sources */,
 				A04E6FC722523903007547EA /* 513.swift in Sources */,
 				A0156CCF222BA9E4002356DF /* Partition Labels.swift in Sources */,
+				A017638D2255E78B0086A44D /* 239.swift in Sources */,
 				A0781606224BB78F0050B47B /* 70.swift in Sources */,
 				A01A3971224E550B00DD9E73 /* 62.swift in Sources */,
 				A04E6FD122558E32007547EA /* 402.swift in Sources */,
