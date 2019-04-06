@@ -82,6 +82,7 @@
 		A07815B0224A6A3C0050B47B /* 46.swift in Sources */ = {isa = PBXBuildFile; fileRef = A07815AF224A6A3C0050B47B /* 46.swift */; };
 		A0781604224BB26F0050B47B /* 53.swift in Sources */ = {isa = PBXBuildFile; fileRef = A0781603224BB26F0050B47B /* 53.swift */; };
 		A0781606224BB78F0050B47B /* 70.swift in Sources */ = {isa = PBXBuildFile; fileRef = A0781605224BB78F0050B47B /* 70.swift */; };
+		A0F2DF4222582EA800ED80D7 /* 22.swift in Sources */ = {isa = PBXBuildFile; fileRef = A0F2DF4122582EA800ED80D7 /* 22.swift */; };
 		A0FAF2512225764B006563AD /* Find and Replace Pattern.swift in Sources */ = {isa = PBXBuildFile; fileRef = A0FAF2502225764B006563AD /* Find and Replace Pattern.swift */; };
 		A0FAF2532226C065006563AD /* Binary Tree Pruning.swift in Sources */ = {isa = PBXBuildFile; fileRef = A0FAF2522226C065006563AD /* Binary Tree Pruning.swift */; };
 		A0FAF25522281201006563AD /* All Paths From Source to Target.swift in Sources */ = {isa = PBXBuildFile; fileRef = A0FAF25422281201006563AD /* All Paths From Source to Target.swift */; };
@@ -176,6 +177,7 @@
 		A07815AF224A6A3C0050B47B /* 46.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 46.swift; sourceTree = "<group>"; };
 		A0781603224BB26F0050B47B /* 53.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 53.swift; sourceTree = "<group>"; };
 		A0781605224BB78F0050B47B /* 70.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 70.swift; sourceTree = "<group>"; };
+		A0F2DF4122582EA800ED80D7 /* 22.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 22.swift; sourceTree = "<group>"; };
 		A0FAF2502225764B006563AD /* Find and Replace Pattern.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Find and Replace Pattern.swift"; sourceTree = "<group>"; };
 		A0FAF2522226C065006563AD /* Binary Tree Pruning.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Binary Tree Pruning.swift"; sourceTree = "<group>"; };
 		A0FAF25422281201006563AD /* All Paths From Source to Target.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "All Paths From Source to Target.swift"; sourceTree = "<group>"; };
@@ -241,6 +243,7 @@
 				A01763902256DCD50086A44D /* 15.swift */,
 				A01763922256F54C0086A44D /* 98.swift */,
 				A0176394225718ED0086A44D /* 50.swift */,
+				A0F2DF4122582EA800ED80D7 /* 22.swift */,
 			);
 			path = Medium;
 			sourceTree = "<group>";
@@ -389,6 +392,7 @@
 				A04E6FC52252331A007547EA /* 103.swift in Sources */,
 				A0FAF2512225764B006563AD /* Find and Replace Pattern.swift in Sources */,
 				A07815AC224A5F600050B47B /* 77.swift in Sources */,
+				A0F2DF4222582EA800ED80D7 /* 22.swift in Sources */,
 				A0156CD1222BB6A9002356DF /* Distribute Coins in Binary Tree.swift in Sources */,
 				A04E6FCB2254EF13007547EA /* 20.swift in Sources */,
 				A040DE642218FE6100763BDC /* Unique Email Addresses.swift in Sources */,
