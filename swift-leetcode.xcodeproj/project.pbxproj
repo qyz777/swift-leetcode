@@ -242,16 +242,12 @@
 				A07815AD224A65D90050B47B /* 39.swift */,
 				A07815AF224A6A3C0050B47B /* 46.swift */,
 				A01A396C224E47FD00DD9E73 /* 445.swift */,
-				A01A3970224E550B00DD9E73 /* 62.swift */,
-				A01A3972224E5B3B00DD9E73 /* 64.swift */,
 				A04E6F9C224F52B8007547EA /* 90.swift */,
-				A04E6FB42250BDE0007547EA /* 322.swift */,
 				A04E6FBC2250E6E2007547EA /* 105.swift */,
 				A04E6FC222521BF0007547EA /* 102.swift */,
 				A04E6FC42252331A007547EA /* 103.swift */,
 				A04E6FC622523903007547EA /* 513.swift */,
 				A04E6FD022558E32007547EA /* 402.swift */,
-				A04E6FD222559B32007547EA /* 392.swift */,
 				A01763902256DCD50086A44D /* 15.swift */,
 				A01763922256F54C0086A44D /* 98.swift */,
 				A0176394225718ED0086A44D /* 50.swift */,
@@ -292,6 +288,7 @@
 		A040DE4A2218FC3E00763BDC /* swift-leetcode */ = {
 			isa = PBXGroup;
 			children = (
+				A0F2DF52225A2A4800ED80D7 /* DP */,
 				A0F2DF4D225883F200ED80D7 /* Trie */,
 				A001B6D5223F8AD300D18968 /* TreeOrder */,
 				A02154FA2237EB66009352CB /* Hard */,
@@ -323,10 +320,6 @@
 				A040DE672218FE9800763BDC /* Jewels and Stones.swift */,
 				A02154F022369845009352CB /* Reverse Linked List.swift */,
 				A026D1AB223E4ED300E5E4C1 /* 234.swift */,
-				A0781603224BB26F0050B47B /* 53.swift */,
-				A0781605224BB78F0050B47B /* 70.swift */,
-				A01784C2224CF8E500ACE850 /* 121.swift */,
-				A01784C4224D024000ACE850 /* 746.swift */,
 				A04E6FB22250B520007547EA /* 455.swift */,
 				A04E6FB62250D439007547EA /* 100.swift */,
 				A04E6FB82250E1B3007547EA /* 104.swift */,
@@ -352,6 +345,45 @@
 				A0F2DF4E2258840100ED80D7 /* Trie.swift */,
 			);
 			path = Trie;
+			sourceTree = "<group>";
+		};
+		A0F2DF52225A2A4800ED80D7 /* DP */ = {
+			isa = PBXGroup;
+			children = (
+				A0F2DF55225A2A7900ED80D7 /* Hard */,
+				A0F2DF53225A2A4D00ED80D7 /* Medium */,
+				A0F2DF54225A2A7000ED80D7 /* Easy */,
+			);
+			path = DP;
+			sourceTree = "<group>";
+		};
+		A0F2DF53225A2A4D00ED80D7 /* Medium */ = {
+			isa = PBXGroup;
+			children = (
+				A04E6FD222559B32007547EA /* 392.swift */,
+				A04E6FB42250BDE0007547EA /* 322.swift */,
+				A01A3972224E5B3B00DD9E73 /* 64.swift */,
+				A01A3970224E550B00DD9E73 /* 62.swift */,
+			);
+			path = Medium;
+			sourceTree = "<group>";
+		};
+		A0F2DF54225A2A7000ED80D7 /* Easy */ = {
+			isa = PBXGroup;
+			children = (
+				A01784C4224D024000ACE850 /* 746.swift */,
+				A01784C2224CF8E500ACE850 /* 121.swift */,
+				A0781605224BB78F0050B47B /* 70.swift */,
+				A0781603224BB26F0050B47B /* 53.swift */,
+			);
+			path = Easy;
+			sourceTree = "<group>";
+		};
+		A0F2DF55225A2A7900ED80D7 /* Hard */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Hard;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
