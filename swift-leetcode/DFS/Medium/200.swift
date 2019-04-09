@@ -9,7 +9,7 @@
 import Foundation
 
 func numIslands(_ grid: [[Character]]) -> Int {
-    func _BFS(_ grid: inout [[Character]], _ x: Int, _ y: Int) {
+    func _DFS(_ grid: inout [[Character]], _ x: Int, _ y: Int) {
         guard x < grid.count && y < grid[0].count else {
             return
         }
@@ -21,7 +21,7 @@ func numIslands(_ grid: [[Character]]) -> Int {
             let mY = y + Y[i]
             if (mX >= 0 && mX < grid.count) && (mY >= 0 && mY < grid[0].count) {
                 if grid[mX][mY] == "1" {
-                    _BFS(&grid, mX, mY)
+                    _DFS(&grid, mX, mY)
                 }
             }
         }
@@ -32,7 +32,7 @@ func numIslands(_ grid: [[Character]]) -> Int {
         for j in 0..<g[0].count {
             if g[i][j] == "1" {
                 count += 1
-                _BFS(&g, i, j)
+                _DFS(&g, i, j)
             }
         }
     }
