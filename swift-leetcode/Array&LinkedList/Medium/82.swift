@@ -8,7 +8,7 @@
 
 import Foundation
 
-func deleteDuplicates(_ head: ListNode?) -> ListNode? {
+func deleteDuplicates2(_ head: ListNode?) -> ListNode? {
     guard head != nil else {
         return head
     }
