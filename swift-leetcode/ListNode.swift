@@ -15,4 +15,17 @@ public class ListNode {
         self.val = val
         self.next = nil
     }
+    
+    public static func generateListNode(_ nums: [Int]) -> ListNode? {
+        guard nums.count > 0 else {
+            return nil
+        }
+        let head = ListNode.init(nums.first!)
+        var p = head
+        for i in 1..<nums.count {
+            p.next = ListNode.init(nums[i])
+            p = p.next!
+        }
+        return head
+    }
 }
