@@ -336,8 +336,6 @@
 				A0FAF25422281201006563AD /* All Paths From Source to Target.swift */,
 				A0125999222A1862001F2CFF /* All Possible Full Binary Trees.swift */,
 				A0156CD0222BB6A9002356DF /* Distribute Coins in Binary Tree.swift */,
-				A0F2DF4722585E5900ED80D7 /* 36.swift */,
-				A017638C2255E78B0086A44D /* 239.swift */,
 				A040DE532218FD8200763BDC /* DI String Match.swift */,
 				A040DE552218FDAD00763BDC /* Robot Return to Origin.swift */,
 				A040DE5B2218FE0700763BDC /* N-Repeated Element in Size 2N Array.swift */,
@@ -345,8 +343,6 @@
 				A040DE612218FE4B00763BDC /* To Lower Case.swift */,
 				A040DE632218FE6100763BDC /* Unique Email Addresses.swift */,
 				A040DE672218FE9800763BDC /* Jewels and Stones.swift */,
-				A017638A2255DAB00086A44D /* 703.swift */,
-				A017638E22563ECB0086A44D /* 242.swift */,
 			);
 			path = Overseas;
 			sourceTree = "<group>";
@@ -706,6 +702,8 @@
 		A0F2DF6C225A326B00ED80D7 /* Easy */ = {
 			isa = PBXGroup;
 			children = (
+				A017638E22563ECB0086A44D /* 242.swift */,
+				A017638A2255DAB00086A44D /* 703.swift */,
 				A040DE652218FE8600763BDC /* 1.swift */,
 				A040DE5D2218FE1D00763BDC /* 977.swift */,
 				A040DE592218FDEA00763BDC /* 905.swift */,
@@ -732,6 +730,7 @@
 		A0F2DF6D225A327000ED80D7 /* Medium */ = {
 			isa = PBXGroup;
 			children = (
+				A0F2DF4722585E5900ED80D7 /* 36.swift */,
 				A05E7D612264BCA400CB0609 /* 16.swift */,
 				A0065A37221FC9EF00B2CEBD /* 950.swift */,
 				A01763902256DCD50086A44D /* 15.swift */,
@@ -760,6 +759,7 @@
 		A0F2DF6E225A32C200ED80D7 /* Hard */ = {
 			isa = PBXGroup;
 			children = (
+				A017638C2255E78B0086A44D /* 239.swift */,
 				A02154FB2237EB99009352CB /* 25.swift */,
 			);
 			path = Hard;
