@@ -67,7 +67,7 @@
 		A040DE602218FE3400763BDC /* Unique Morse Code Words.swift in Sources */ = {isa = PBXBuildFile; fileRef = A040DE5F2218FE3400763BDC /* Unique Morse Code Words.swift */; };
 		A040DE622218FE4B00763BDC /* To Lower Case.swift in Sources */ = {isa = PBXBuildFile; fileRef = A040DE612218FE4B00763BDC /* To Lower Case.swift */; };
 		A040DE642218FE6100763BDC /* Unique Email Addresses.swift in Sources */ = {isa = PBXBuildFile; fileRef = A040DE632218FE6100763BDC /* Unique Email Addresses.swift */; };
-		A040DE662218FE8600763BDC /* Two Sum.swift in Sources */ = {isa = PBXBuildFile; fileRef = A040DE652218FE8600763BDC /* Two Sum.swift */; };
+		A040DE662218FE8600763BDC /* 1.swift in Sources */ = {isa = PBXBuildFile; fileRef = A040DE652218FE8600763BDC /* 1.swift */; };
 		A040DE682218FE9800763BDC /* Jewels and Stones.swift in Sources */ = {isa = PBXBuildFile; fileRef = A040DE672218FE9800763BDC /* Jewels and Stones.swift */; };
 		A0487BA32273072D0001B039 /* 1026.swift in Sources */ = {isa = PBXBuildFile; fileRef = A0487BA22273072D0001B039 /* 1026.swift */; };
 		A0487BA5227315A80001B039 /* 993.swift in Sources */ = {isa = PBXBuildFile; fileRef = A0487BA4227315A80001B039 /* 993.swift */; };
@@ -223,7 +223,7 @@
 		A040DE5F2218FE3400763BDC /* Unique Morse Code Words.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Unique Morse Code Words.swift"; sourceTree = "<group>"; };
 		A040DE612218FE4B00763BDC /* To Lower Case.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "To Lower Case.swift"; sourceTree = "<group>"; };
 		A040DE632218FE6100763BDC /* Unique Email Addresses.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Unique Email Addresses.swift"; sourceTree = "<group>"; };
-		A040DE652218FE8600763BDC /* Two Sum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Two Sum.swift"; sourceTree = "<group>"; };
+		A040DE652218FE8600763BDC /* 1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 1.swift; sourceTree = "<group>"; };
 		A040DE672218FE9800763BDC /* Jewels and Stones.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Jewels and Stones.swift"; sourceTree = "<group>"; };
 		A0487BA22273072D0001B039 /* 1026.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 1026.swift; sourceTree = "<group>"; };
 		A0487BA4227315A80001B039 /* 993.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 993.swift; sourceTree = "<group>"; };
@@ -344,7 +344,6 @@
 				A040DE5F2218FE3400763BDC /* Unique Morse Code Words.swift */,
 				A040DE612218FE4B00763BDC /* To Lower Case.swift */,
 				A040DE632218FE6100763BDC /* Unique Email Addresses.swift */,
-				A040DE652218FE8600763BDC /* Two Sum.swift */,
 				A040DE672218FE9800763BDC /* Jewels and Stones.swift */,
 				A017638A2255DAB00086A44D /* 703.swift */,
 				A017638E22563ECB0086A44D /* 242.swift */,
@@ -707,6 +706,7 @@
 		A0F2DF6C225A326B00ED80D7 /* Easy */ = {
 			isa = PBXGroup;
 			children = (
+				A040DE652218FE8600763BDC /* 1.swift */,
 				A040DE5D2218FE1D00763BDC /* 977.swift */,
 				A040DE592218FDEA00763BDC /* 905.swift */,
 				A040DE572218FDD000763BDC /* 832.swift */,
@@ -911,7 +911,7 @@
 				A0F9AFA8225CDAD80095B098 /* 725.swift in Sources */,
 				A026D1AC223E4ED300E5E4C1 /* 234.swift in Sources */,
 				A0065A32221E47C900B2CEBD /* TreeNode.swift in Sources */,
-				A040DE662218FE8600763BDC /* Two Sum.swift in Sources */,
+				A040DE662218FE8600763BDC /* 1.swift in Sources */,
 				A0F2DF4F2258840100ED80D7 /* Trie.swift in Sources */,
 				A0176399225766400086A44D /* 111.swift in Sources */,
 				A0122D87221A82F400D87CF1 /* 2.swift in Sources */,
