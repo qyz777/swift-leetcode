@@ -90,6 +90,7 @@
 | 216  |                                                              |
 | 217  |                                                              |
 | 225  |                                                              |
+| 226  | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/Tree/Easy/226.swift |
 | 231  |                                                              |
 | 232  |                                                              |
 | 234  |                                                              |
