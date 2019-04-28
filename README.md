@@ -75,6 +75,7 @@
 | 136  |                                                              |
 | 139  |                                                              |
 | 144  | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/Tree/Medium/144.swift |
+| 145  | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/Tree/Hard/145.swift |
 | 147  |                                                              |
 | 148  |                                                              |
 | 152  |                                                              |
