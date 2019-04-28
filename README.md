@@ -28,32 +28,32 @@
 | 39   | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/Backtracking/Medium/39.swift |
 | 40   | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/Backtracking/Medium/40.swift |
 | 46   | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/Backtracking/Medium/46.swift |
-| 47   |                                                              |
-| 50   |                                                              |
-| 51   |                                                              |
-| 52   |                                                              |
-| 53   |                                                              |
-| 61   |                                                              |
-| 62   |                                                              |
-| 63   |                                                              |
-| 64   |                                                              |
-| 69   |                                                              |
-| 70   |                                                              |
-| 72   |                                                              |
-| 77   |                                                              |
-| 78   |                                                              |
-| 79   |                                                              |
-| 82   |                                                              |
-| 83   |                                                              |
-| 86   |                                                              |
-| 88   |                                                              |
-| 90   |                                                              |
-| 92   |                                                              |
-| 93   |                                                              |
-| 95   |                                                              |
-| 96   |                                                              |
-| 98   |                                                              |
-| 100  |                                                              |
+| 47   | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/Backtracking/Medium/47.swift |
+| 50   | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/BinarySearch/Medium/50.swift |
+| 51   | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/Backtracking/Hard/51.swift |
+| 52   | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/Backtracking/Hard/52.swift |
+| 53   | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/DP/Easy/53.swift |
+| 61   | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/Array%26LinkedList/Medium/61.swift |
+| 62   | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/DP/Medium/62.swift |
+| 63   | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/DP/Medium/63.swift |
+| 64   | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/DP/Medium/64.swift |
+| 69   | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/BinarySearch/Easy/69.swift |
+| 70   | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/DP/Easy/70.swift |
+| 72   | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/DP/Hard/72.swift |
+| 77   | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/Backtracking/Medium/77.swift |
+| 78   | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/Backtracking/Medium/78.swift |
+| 79   | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/Backtracking/Medium/79.swift |
+| 82   | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/Array%26LinkedList/Medium/82.swift |
+| 83   | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/Array%26LinkedList/Easy/83.swift |
+| 86   | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/Array%26LinkedList/Medium/86.swift |
+| 88   | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/Array%26LinkedList/Easy/88.swift |
+| 90   | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/Backtracking/Medium/90.swift |
+| 92   | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/Array%26LinkedList/Medium/92.swift |
+| 93   | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/Backtracking/Medium/93.swift |
+| 95   | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/DP/Medium/95.swift |
+| 96   | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/DP/Medium/96.swift |
+| 98   | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/DP/Medium/98.swift |
+| 100  | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/DFS/Easy/100.swift |
 | 101  |                                                              |
 | 102  |                                                              |
 | 103  |                                                              |
