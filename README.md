@@ -52,6 +52,7 @@
 | 90   | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/Backtracking/90.swift |
 | 92   | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/LinkedList/92.swift |
 | 93   | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/Backtracking/93.swift |
+| 94   | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/Tree/94.swift |
 | 95   | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/DP/95.swift |
 | 96   | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/DP/96.swift |
 | 98   | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/DP/98.swift |
