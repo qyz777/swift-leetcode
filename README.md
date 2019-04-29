@@ -72,6 +72,7 @@
 | 121  |                                                              |
 | 122  |                                                              |
 | 123  |                                                              |
+| 131  | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/Backtracking/Medium/131.swift |
 | 136  |                                                              |
 | 139  |                                                              |
 | 144  | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/Tree/Medium/144.swift |
