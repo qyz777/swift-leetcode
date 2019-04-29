@@ -112,6 +112,7 @@
 | 455  |                                                              |
 | 494  |                                                              |
 | 513  |                                                              |
+| 526  | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/Backtracking/Medium/526.swift |
 | 542  |                                                              |
 | 557  |                                                              |
 | 563  | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/DFS/Easy/563.swift |
