@@ -75,6 +75,7 @@
 | 121  |                                                              |
 | 122  |                                                              |
 | 123  |                                                              |
+| 125  | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/Array/125.swift |
 | 131  | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/Backtracking/131.swift |
 | 136  |                                                              |
 | 139  |                                                              |
