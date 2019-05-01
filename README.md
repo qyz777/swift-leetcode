@@ -101,6 +101,7 @@
 | 239  |                                                              |
 | 242  |                                                              |
 | 264  |                                                              |
+| 283  | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/Array/283.swift |
 | 300  |                                                              |
 | 322  |                                                              |
 | 328  |                                                              |
