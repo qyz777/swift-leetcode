@@ -139,7 +139,8 @@
 | 814  |                                                              |
 | 817  |                                                              |
 | 832  |                                                              |
-| 861  |                                                              |
+| 860  | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/Greedy/860.swift |
+| 861  | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/Greedy/861.swift |
 | 872  |                                                              |
 | 876  |                                                              |
 | 890  |                                                              |
