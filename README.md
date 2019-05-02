@@ -77,7 +77,8 @@
 | 123  |                                                              |
 | 125  | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/Array/125.swift |
 | 131  | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/Backtracking/131.swift |
-| 136  |                                                              |
+| 136  | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/Array/136.swift |
+| 137  | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/Array/137.swift |
 | 139  |                                                              |
 | 144  | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/Tree/144.swift |
 | 145  | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/Tree/145.swift |
