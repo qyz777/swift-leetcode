@@ -23,6 +23,7 @@
 | 20   | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/Stack/20.swift |
 | 21   | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/LinkedList/21.swift |
 | 22   | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/Backtracking/Medium/22.swift |
+| 23   | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/LinkedList/23.swift |
 | 24   | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/LinkedList/24.swift |
 | 25   | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/LinkedList/25.swift |
 | 26   | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/Array/26.swift |
