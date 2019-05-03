@@ -89,6 +89,7 @@
 | 145  | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/Tree/145.swift |
 | 147  |                                                              |
 | 148  |                                                              |
+| 150  | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/Stack/150.swift |
 | 152  |                                                              |
 | 169  |                                                              |
 | 198  |                                                              |
