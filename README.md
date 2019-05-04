@@ -103,6 +103,7 @@
 | 216  |                                                              |
 | 217  |                                                              |
 | 221  | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/DP/221.swift |
+| 222  | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/BFS/222.swift |
 | 224  | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/Stack/224.swift |
 | 225  | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/Stack/225.swift |
 | 226  | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/Tree/226.swift |
