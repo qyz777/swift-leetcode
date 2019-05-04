@@ -8,7 +8,18 @@
 
 import Foundation
 
-// 用上了21题实现的方法
+/**
+ Review Level: ⭐️⭐️⭐️
+ 
+ 难点:
+ 1. 合并有序链表
+ 2. 同时合并多个有序链表会超时
+ 
+ 我第一次的写法是用for循环去遍历每一个lists的头结点然后合并链表，这样会超时。
+ 所以需要用上分治的思想，把问题简化成合并两个有序链表
+ 
+ 用上了21题实现的方法 mergeTwoLists
+ */
 
 func mergeKLists(_ lists: [ListNode?]) -> ListNode? {
     guard lists.count > 0 else {
