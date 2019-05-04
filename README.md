@@ -107,11 +107,12 @@
 | 224  | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/Stack/224.swift |
 | 225  | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/Stack/225.swift |
 | 226  | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/Tree/226.swift |
-| 231  |                                                              |
-| 232  |                                                              |
-| 234  |                                                              |
-| 239  |                                                              |
-| 242  |                                                              |
+| 230  | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/Tree/230.swift |
+| 231  | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/Bit/231.swift |
+| 232  | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/Stack/232.swift |
+| 234  | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/LinkedList/234.swift |
+| 239  | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/Array/239.swift |
+| 242  | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/Array/242.swift |
 | 257  | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/DFS/257.swift |
 | 264  |                                                              |
 | 279  | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/DP/279.swift |
