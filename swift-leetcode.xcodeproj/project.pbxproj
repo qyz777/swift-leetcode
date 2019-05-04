@@ -20,7 +20,7 @@
 		A012599A222A1862001F2CFF /* All Possible Full Binary Trees.swift in Sources */ = {isa = PBXBuildFile; fileRef = A0125999222A1862001F2CFF /* All Possible Full Binary Trees.swift */; };
 		A01259A0222B6E65001F2CFF /* 861.swift in Sources */ = {isa = PBXBuildFile; fileRef = A012599F222B6E65001F2CFF /* 861.swift */; };
 		A0156CCF222BA9E4002356DF /* 763.swift in Sources */ = {isa = PBXBuildFile; fileRef = A0156CCE222BA9E4002356DF /* 763.swift */; };
-		A0156CD1222BB6A9002356DF /* Distribute Coins in Binary Tree.swift in Sources */ = {isa = PBXBuildFile; fileRef = A0156CD0222BB6A9002356DF /* Distribute Coins in Binary Tree.swift */; };
+		A0156CD1222BB6A9002356DF /* 979.swift in Sources */ = {isa = PBXBuildFile; fileRef = A0156CD0222BB6A9002356DF /* 979.swift */; };
 		A017638B2255DAB00086A44D /* 703.swift in Sources */ = {isa = PBXBuildFile; fileRef = A017638A2255DAB00086A44D /* 703.swift */; };
 		A017638D2255E78B0086A44D /* 239.swift in Sources */ = {isa = PBXBuildFile; fileRef = A017638C2255E78B0086A44D /* 239.swift */; };
 		A017638F22563ECB0086A44D /* 242.swift in Sources */ = {isa = PBXBuildFile; fileRef = A017638E22563ECB0086A44D /* 242.swift */; };
@@ -205,7 +205,7 @@
 		A0125999222A1862001F2CFF /* All Possible Full Binary Trees.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "All Possible Full Binary Trees.swift"; sourceTree = "<group>"; };
 		A012599F222B6E65001F2CFF /* 861.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 861.swift; sourceTree = "<group>"; };
 		A0156CCE222BA9E4002356DF /* 763.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 763.swift; sourceTree = "<group>"; };
-		A0156CD0222BB6A9002356DF /* Distribute Coins in Binary Tree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Distribute Coins in Binary Tree.swift"; sourceTree = "<group>"; };
+		A0156CD0222BB6A9002356DF /* 979.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 979.swift; sourceTree = "<group>"; };
 		A017638A2255DAB00086A44D /* 703.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 703.swift; sourceTree = "<group>"; };
 		A017638C2255E78B0086A44D /* 239.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 239.swift; sourceTree = "<group>"; };
 		A017638E22563ECB0086A44D /* 242.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 242.swift; sourceTree = "<group>"; };
@@ -388,6 +388,7 @@
 				A0D8BE3E22772B27007963E4 /* 617.swift */,
 				A0BFBF5E227D1BB40086687C /* 669.swift */,
 				A0122D8A221A935A00D87CF1 /* 938.swift */,
+				A0156CD0222BB6A9002356DF /* 979.swift */,
 			);
 			path = Tree;
 			sourceTree = "<group>";
@@ -402,7 +403,6 @@
 				A0FAF2522226C065006563AD /* Binary Tree Pruning.swift */,
 				A0FAF25422281201006563AD /* All Paths From Source to Target.swift */,
 				A0125999222A1862001F2CFF /* All Possible Full Binary Trees.swift */,
-				A0156CD0222BB6A9002356DF /* Distribute Coins in Binary Tree.swift */,
 				A040DE532218FD8200763BDC /* DI String Match.swift */,
 				A040DE552218FDAD00763BDC /* Robot Return to Origin.swift */,
 				A040DE5B2218FE0700763BDC /* N-Repeated Element in Size 2N Array.swift */,
@@ -746,7 +746,7 @@
 				A03C38362271EDDA00825F66 /* 404.swift in Sources */,
 				A0F2DF4222582EA800ED80D7 /* 22.swift in Sources */,
 				A05E7D4A2264195B00CB0609 /* 198.swift in Sources */,
-				A0156CD1222BB6A9002356DF /* Distribute Coins in Binary Tree.swift in Sources */,
+				A0156CD1222BB6A9002356DF /* 979.swift in Sources */,
 				A04E6FCB2254EF13007547EA /* 20.swift in Sources */,
 				A066051F2260C29A00268244 /* 106.swift in Sources */,
 				A040DE642218FE6100763BDC /* Unique Email Addresses.swift in Sources */,
