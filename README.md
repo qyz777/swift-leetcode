@@ -117,17 +117,18 @@
 | 264  |                                                              |
 | 279  | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/DP/279.swift |
 | 283  | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/Array/283.swift |
-| 300  |                                                              |
-| 322  |                                                              |
-| 328  |                                                              |
-| 338  |                                                              |
-| 343  |                                                              |
-| 344  |                                                              |
-| 392  |                                                              |
-| 402  |                                                              |
-| 404  |                                                              |
+| 300  | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/DP/300.swift |
+| 322  | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/DP/322.swift |
+| 328  | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/LinkedList/328.swift |
+| 337  | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/Tree/337.swift |
+| 338  | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/Bit/338.swift |
+| 343  | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/DP/343.swift |
+| 344  | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/Array/324.swift |
+| 392  | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/DP/392.swift |
+| 402  | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/Greedy/402.swift |
+| 404  | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/Tree/404.swift |
 | 409  | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/Array/409.swift |
-| 413  |                                                              |
+| 413  | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/DP/413.swift |
 | 416  | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/DP/416.swift |
 | 445  |                                                              |
 | 455  |                                                              |
