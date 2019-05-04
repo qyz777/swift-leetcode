@@ -139,6 +139,7 @@
 | 646  |                                                              |
 | 654  |                                                              |
 | 657  |                                                              |
+| 669  | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/Tree/669.swift |
 | 701  |                                                              |
 | 703  |                                                              |
 | 709  |                                                              |
