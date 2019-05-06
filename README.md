@@ -140,6 +140,7 @@
 | 513  |                                                              |
 | 526  | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/Backtracking/526.swift |
 | 530  | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/Tree/530.swift |
+| 538  | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/Tree/538.swift |
 | 542  |                                                              |
 | 557  |                                                              |
 | 563  | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/DFS/563.swift |
