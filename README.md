@@ -142,7 +142,8 @@
 | 526  | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/Backtracking/526.swift |
 | 530  | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/Tree/530.swift |
 | 538  | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/Tree/538.swift |
-| 542  |                                                              |
+| 542  | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/BFS/542.swift |
+| 543  | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/Tree/543.swift |
 | 557  |                                                              |
 | 563  | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/DFS/563.swift |
 | 617  | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/Tree/617.swift |
