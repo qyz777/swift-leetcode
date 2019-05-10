@@ -144,13 +144,14 @@
 | 538  | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/Tree/538.swift |
 | 542  | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/BFS/542.swift |
 | 543  | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/Tree/543.swift |
-| 557  |                                                              |
+| 557  | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/Array/557.swift |
 | 563  | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/DFS/563.swift |
 | 572  | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/Tree/572.swift |
+| 606  | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/Tree/606.swift |
 | 617  | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/Tree/617.swift |
-| 646  |                                                              |
-| 654  |                                                              |
-| 657  |                                                              |
+| 646  | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/DP/646.swift |
+| 654  | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/Tree/654.swift |
+| 657  | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/Array/657.swift |
 | 669  | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/Tree/669.swift |
 | 701  |                                                              |
 | 703  |                                                              |
