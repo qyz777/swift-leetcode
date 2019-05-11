@@ -2,8 +2,6 @@
 
 我使用swift刷LeetCode的记录
 
-还剩下好多链接慢慢填...
-
 接下来我会在每个文件里面写一些注释，包括Review Level(我认为需要反复复习的指数)，难点和说明
 
 
@@ -23,7 +21,7 @@
 | 19   | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/LinkedList/19.swift |
 | 20   | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/Stack/20.swift |
 | 21   | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/LinkedList/21.swift |
-| 22   | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/Backtracking/Medium/22.swift |
+| 22   | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/Backtracking/22.swift |
 | 23   | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/LinkedList/23.swift |
 | 24   | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/LinkedList/24.swift |
 | 25   | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/LinkedList/25.swift |
@@ -60,48 +58,48 @@
 | 96   | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/DP/96.swift |
 | 98   | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/DP/98.swift |
 | 100  | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/DFS/100.swift |
-| 101  |                                                              |
-| 102  |                                                              |
-| 103  |                                                              |
-| 104  |                                                              |
-| 105  |                                                              |
-| 106  |                                                              |
-| 107  |                                                              |
+| 101  | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/BFS/101.swift |
+| 102  | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/BFS/102.swift |
+| 103  | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/BFS/103.swift |
+| 104  | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/DFS/104.swift |
+| 105  | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/DFS/105.swift |
+| 106  | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/DFS/106.swift |
+| 107  | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/BFS/107.swift |
 | 108  | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/Tree/108.swift |
-| 109  |                                                              |
-| 110  |                                                              |
-| 111  |                                                              |
-| 112  |                                                              |
-| 113  |                                                              |
-| 114  |                                                              |
+| 109  | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/LinkedList/109.swift |
+| 110  | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/DFS/110.swift |
+| 111  | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/BFS/111.swift |
+| 112  | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/DFS/112.swift |
+| 113  | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/DFS/113.swift |
+| 114  | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/DFS/114.swift |
 | 118  | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/Array/118.swift |
 | 119  | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/Array/119.swift |
-| 120  |                                                              |
-| 121  |                                                              |
-| 122  |                                                              |
-| 123  |                                                              |
+| 120  | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/DP/120.swift |
+| 121  | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/DP/121.swift |
+| 122  | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/Greedy/122.swift |
+| 123  | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/DP/123.swift |
 | 125  | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/Array/125.swift |
 | 131  | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/Backtracking/131.swift |
 | 136  | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/Array/136.swift |
 | 137  | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/Array/137.swift |
-| 139  |                                                              |
+| 139  | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/DP/139.swift |
 | 143  | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/LinkedList/143.swift |
 | 144  | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/Tree/144.swift |
 | 145  | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/Tree/145.swift |
-| 147  |                                                              |
-| 148  |                                                              |
+| 147  | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/LinkedList/147.swift |
+| 148  | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/LinkedList/148.swift |
 | 150  | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/Stack/150.swift |
-| 152  |                                                              |
-| 169  |                                                              |
-| 198  |                                                              |
-| 199  |                                                              |
-| 200  |                                                              |
-| 203  |                                                              |
-| 206  |                                                              |
-| 208  |                                                              |
-| 215  |                                                              |
-| 216  |                                                              |
-| 217  |                                                              |
+| 152  | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/DP/152.swift |
+| 169  | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/Array/169.swift |
+| 198  | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/DP/198.swift |
+| 199  | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/BFS/199.swift |
+| 200  | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/DFS/200.swift |
+| 203  | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/LinkedList/203.swift |
+| 206  | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/LinkedList/206.swift |
+| 208  | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/Trie/203.swift |
+| 215  | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/Array/215.swift |
+| 216  | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/Backtracking/216.swift |
+| 217  | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/Array/217.swift |
 | 221  | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/DP/221.swift |
 | 222  | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/BFS/222.swift |
 | 224  | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/Stack/224.swift |
@@ -114,7 +112,7 @@
 | 239  | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/Array/239.swift |
 | 242  | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/Array/242.swift |
 | 257  | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/DFS/257.swift |
-| 264  |                                                              |
+| 264  | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/DP/264.swift |
 | 279  | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/DP/279.swift |
 | 283  | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/Array/283.swift |
 | 300  | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/DP/300.swift |
@@ -132,9 +130,9 @@
 | 416  | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/DP/416.swift |
 | 437  | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/Tree/437.swift |
 | 450  | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/Tree/450.swift |
-| 445  |                                                              |
-| 455  |                                                              |
-| 494  |                                                              |
+| 445  | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/LinkedList/445.swift |
+| 455  | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/Greedy/455.swift |
+| 494  | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/DFS/494.swift |
 | 501  | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/Tree/501.swift |
 | 508  | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/Tree/508.swift |
 | 513  | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/BFS/513.swift |
@@ -155,40 +153,41 @@
 | 652  | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/Tree/652.swift |
 | 653  | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/Tree/653.swift |
 | 654  | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/Tree/654.swift |
+| 655  | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/Tree/655.swift |
 | 657  | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/Array/657.swift |
 | 669  | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/Tree/669.swift |
-| 701  |                                                              |
-| 703  |                                                              |
-| 709  |                                                              |
+| 701  | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/Tree/701.swift |
+| 703  | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/Array/703.swift |
+| 709  | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/Array/709.swift |
 | 718  | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/DP/718.swift |
-| 725  |                                                              |
-| 733  |                                                              |
-| 746  |                                                              |
-| 763  |                                                              |
-| 771  |                                                              |
-| 797  |                                                              |
-| 804  |                                                              |
-| 807  |                                                              |
-| 814  |                                                              |
-| 817  |                                                              |
-| 832  |                                                              |
+| 725  | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/LinkedList/725.swift |
+| 733  | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/DFS/733.swift |
+| 746  | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/DP/746.swift |
+| 763  | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/Greedy/763.swift |
+| 771  | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/Array/771.swift |
+| 797  | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/Backtracking/791.swift |
+| 804  | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/Array/804.swift |
+| 807  | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/Array/807.swift |
+| 814  | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/Tree/814.swift |
+| 817  | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/LinkedList/817.swift |
+| 832  | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/Array/832.swift |
 | 860  | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/Greedy/860.swift |
 | 861  | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/Greedy/861.swift |
-| 872  |                                                              |
-| 876  |                                                              |
-| 890  |                                                              |
-| 894  |                                                              |
-| 897  |                                                              |
-| 905  |                                                              |
-| 929  |                                                              |
+| 872  | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/DFS/872.swift |
+| 876  | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/LinkedList/876.swift |
+| 890  | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/Array/890.swift |
+| 894  | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/Tree/894.swift |
+| 897  | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/DFS/897.swift |
+| 905  | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/Array/905.swift |
+| 929  | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/Array/929.swift |
 | 938  | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/Tree/938.swift |
-| 942  |                                                              |
-| 950  |                                                              |
-| 961  |                                                              |
-| 977  |                                                              |
+| 942  | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/Array/942.swift |
+| 950  | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/Array/950.swift |
+| 961  | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/Array/961.swift |
+| 977  | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/Array/977.swift |
 | 979  | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/Tree/979.swift |
-| 993  |                                                              |
-| 1019 |                                                              |
-| 1026 |                                                              |
-| 1030 |                                                              |
+| 993  | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/BFS/993.swift |
+| 1019 | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/LinkedList/1019.swift |
+| 1026 | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/DFS/1026.swift |
+| 1030 | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/Array/1030.swift |
 
