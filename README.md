@@ -159,6 +159,7 @@
 | 669  | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/Tree/669.swift |
 | 671  | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/Tree/671.swift |
 | 687  | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/Tree/687.swift |
+| 700  | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/Tree/700.swift |
 | 701  | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/Tree/701.swift |
 | 703  | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/Array/703.swift |
 | 709  | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/Array/709.swift |
