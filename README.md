@@ -91,6 +91,7 @@
 | 150  | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/Stack/150.swift |
 | 152  | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/DP/152.swift |
 | 169  | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/Array/169.swift |
+| 173  | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/Tree/173.swift |
 | 198  | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/DP/198.swift |
 | 199  | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/BFS/199.swift |
 | 200  | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/DFS/200.swift |
