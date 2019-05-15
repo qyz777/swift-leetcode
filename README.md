@@ -17,6 +17,7 @@
 | 14   | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/Array/14.swift |
 | 15   | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/Array/15.swift |
 | 16   | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/Array/16.swift |
+| 17   | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/Backtracking/17.swift |
 | 18   | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/Array/18.swift |
 | 19   | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/LinkedList/19.swift |
 | 20   | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/Stack/20.swift |
