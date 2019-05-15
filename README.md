@@ -178,6 +178,7 @@
 | 814  | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/Tree/814.swift |
 | 817  | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/LinkedList/817.swift |
 | 832  | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/Array/832.swift |
+| 844  | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/Stack/844.swift |
 | 860  | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/Greedy/860.swift |
 | 861  | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/Greedy/861.swift |
 | 872  | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/DFS/872.swift |
