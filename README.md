@@ -126,6 +126,7 @@
 | 343  | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/DP/343.swift |
 | 344  | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/Array/324.swift |
 | 392  | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/DP/392.swift |
+| 394  | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/Stack/394.swift |
 | 402  | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/Greedy/402.swift |
 | 404  | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/Tree/404.swift |
 | 409  | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/Array/409.swift |
