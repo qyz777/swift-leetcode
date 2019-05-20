@@ -206,4 +206,5 @@
 | 1019 | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/LinkedList/1019.swift |
 | 1026 | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/DFS/1026.swift |
 | 1030 | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/Array/1030.swift |
+| 1038 | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/Tree/1038.swift |
 
