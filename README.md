@@ -36,6 +36,7 @@
 | 42   | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/Array/42.swift |
 | 46   | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/Backtracking/46.swift |
 | 47   | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/Backtracking/47.swift |
+| 48   | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/Array/48.swift |
 | 50   | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/BinarySearch/50.swift |
 | 51   | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/Backtracking/51.swift |
 | 52   | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/Backtracking/52.swift |
