@@ -208,6 +208,7 @@
 | 979  | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/Tree/979.swift |
 | 987  | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/Tree/987.swift |
 | 993  | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/BFS/993.swift |
+| 998  | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/Tree/998.swift |
 | 1008 | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/Tree/1008.swift |
 | 1019 | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/LinkedList/1019.swift |
 | 1026 | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/DFS/1026.swift |
