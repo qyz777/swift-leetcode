@@ -64,6 +64,7 @@
 | 95   | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/DP/95.swift |
 | 96   | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/DP/96.swift |
 | 98   | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/DP/98.swift |
+| 99   | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/Tree/99.swift |
 | 100  | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/DFS/100.swift |
 | 101  | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/BFS/101.swift |
 | 102  | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/BFS/102.swift |
