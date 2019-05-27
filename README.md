@@ -86,6 +86,7 @@
 | 121  | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/DP/121.swift |
 | 122  | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/Greedy/122.swift |
 | 123  | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/DP/123.swift |
+| 124  | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/Tree/124.swift |
 | 125  | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/Array/125.swift |
 | 130  | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/DFS/130.swift |
 | 131  | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/Backtracking/131.swift |
