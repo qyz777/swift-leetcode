@@ -199,6 +199,7 @@
 | 865  | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/Tree/865.swift |
 | 872  | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/DFS/872.swift |
 | 876  | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/LinkedList/876.swift |
+| 889  | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/Tree/889.swift |
 | 890  | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/Array/890.swift |
 | 894  | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/Tree/894.swift |
 | 897  | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/DFS/897.swift |
