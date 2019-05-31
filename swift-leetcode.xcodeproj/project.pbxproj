@@ -163,6 +163,7 @@
 		A092A45C22855A820016206F /* 637.swift in Sources */ = {isa = PBXBuildFile; fileRef = A092A45B22855A820016206F /* 637.swift */; };
 		A092A45E22855C760016206F /* 652.swift in Sources */ = {isa = PBXBuildFile; fileRef = A092A45D22855C760016206F /* 652.swift */; };
 		A092A460228562E10016206F /* 653.swift in Sources */ = {isa = PBXBuildFile; fileRef = A092A45F228562E10016206F /* 653.swift */; };
+		A0BADF5022A15C8500D86B86 /* 1022.swift in Sources */ = {isa = PBXBuildFile; fileRef = A0BADF4F22A15C8500D86B86 /* 1022.swift */; };
 		A0BFBF49227AC4D10086687C /* 137.swift in Sources */ = {isa = PBXBuildFile; fileRef = A0BFBF48227AC4D10086687C /* 137.swift */; };
 		A0BFBF4D227AD6660086687C /* 71.swift in Sources */ = {isa = PBXBuildFile; fileRef = A0BFBF4C227AD6660086687C /* 71.swift */; };
 		A0BFBF4F227AE2FA0086687C /* 143.swift in Sources */ = {isa = PBXBuildFile; fileRef = A0BFBF4E227AE2FA0086687C /* 143.swift */; };
@@ -398,6 +399,7 @@
 		A092A45B22855A820016206F /* 637.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 637.swift; sourceTree = "<group>"; };
 		A092A45D22855C760016206F /* 652.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 652.swift; sourceTree = "<group>"; };
 		A092A45F228562E10016206F /* 653.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 653.swift; sourceTree = "<group>"; };
+		A0BADF4F22A15C8500D86B86 /* 1022.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 1022.swift; sourceTree = "<group>"; };
 		A0BFBF48227AC4D10086687C /* 137.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 137.swift; sourceTree = "<group>"; };
 		A0BFBF4C227AD6660086687C /* 71.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 71.swift; sourceTree = "<group>"; };
 		A0BFBF4E227AE2FA0086687C /* 143.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 143.swift; sourceTree = "<group>"; };
@@ -523,6 +525,7 @@
 				A0F838A5229FBE8F00ED7A8A /* 988.swift */,
 				A0F83897229A34F800ED7A8A /* 998.swift */,
 				A03D7045228E46990077BBC8 /* 1008.swift */,
+				A0BADF4F22A15C8500D86B86 /* 1022.swift */,
 				A0208BA52292E8CD005F71A3 /* 1038.swift */,
 			);
 			path = Tree;
@@ -911,6 +914,7 @@
 				A04E6F9D224F52B8007547EA /* 90.swift in Sources */,
 				A0F8389E229BCB7600ED7A8A /* 129.swift in Sources */,
 				A0F838A4229FA4C600ED7A8A /* 889.swift in Sources */,
+				A0BADF5022A15C8500D86B86 /* 1022.swift in Sources */,
 				A0487BC02275E38C0001B039 /* 226.swift in Sources */,
 				A05E7D6A2268A8AC00CB0609 /* 139.swift in Sources */,
 				A01A396B224E474B00DD9E73 /* ListNode.swift in Sources */,
