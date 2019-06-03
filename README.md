@@ -183,6 +183,7 @@
 | 718  | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/DP/718.swift |
 | 725  | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/LinkedList/725.swift |
 | 733  | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/DFS/733.swift |
+| 740  | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/DP/740.swift |
 | 746  | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/DP/746.swift |
 | 763  | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/Greedy/763.swift |
 | 771  | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/Array/771.swift |
