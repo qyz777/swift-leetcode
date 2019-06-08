@@ -10,6 +10,7 @@
 | :--- | :----------------------------------------------------------- |
 | 1    | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/Array/1.swift |
 | 2    | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/LinkedList/2.swift |
+| 3    | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/Array/3.swift |
 | 4    | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/Array/4.swift |
 | 7    | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/Array/7.swift |
 | 9    | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/Array/9.swift |
