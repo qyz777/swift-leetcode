@@ -47,6 +47,7 @@
 | 51   | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/Backtracking/51.swift |
 | 52   | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/Backtracking/52.swift |
 | 53   | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/DP/53.swift |
+| 54   | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/Array/54.swift |
 | 56   | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/Array/56.swift |
 | 61   | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/LinkedList/61.swift |
 | 62   | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/DP/62.swift |
