@@ -58,6 +58,7 @@
 | 70   | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/DP/70.swift |
 | 71   | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/Array/71.swift |
 | 72   | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/DP/72.swift |
+| 73   | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/Array/73.swift |
 | 77   | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/Backtracking/77.swift |
 | 78   | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/Backtracking/78.swift |
 | 79   | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/Backtracking/79.swift |
