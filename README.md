@@ -225,6 +225,7 @@
 | 942  | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/Array/942.swift |
 | 950  | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/Array/950.swift |
 | 961  | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/Array/961.swift |
+| 973  | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/Array/973.swift |
 | 977  | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/Array/977.swift |
 | 979  | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/Tree/979.swift |
 | 987  | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/Tree/987.swift |
