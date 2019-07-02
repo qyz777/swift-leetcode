@@ -1,10 +1,26 @@
 # swift-leetcode
 
-我使用swift刷LeetCode的记录
+## 前言
 
-接下来我会在每个文件里面写一些注释，包括Review Level(我认为需要反复复习的指数)，难点和说明
+本仓库是我使用swift刷LeetCode的记录。
 
+作为一名应届生，刷题是提高自己算法能力的一种很有效的方法。LeetCode的题目描述相对于oj题目来说十分简洁，而且并不需要自己接收参数，对于刷题的新手来说十分友好。
 
+## TODO
+
+1. 完善题目注释
+2. 改善README的题目列表
+3. 新增一些常见的算法模板
+
+## 模板
+
+### 排序模板
+
+归并排序、快速排序和堆排序的实现⤵️
+
+[排序](https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/Sort/ArraySort.swift)
+
+## 题目
 
 | 序号 | 链接                                                         |
 | :--- | :----------------------------------------------------------- |
@@ -245,3 +261,6 @@
 | 1030 | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/Array/1030.swift |
 | 1038 | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/Tree/1038.swift |
 
+## License
+
+[MIT](https://github.com/qyz777/swift-leetcode/LICENSE)
