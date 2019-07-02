@@ -610,7 +610,8 @@
 		A040DE4A2218FC3E00763BDC /* swift-leetcode */ = {
 			isa = PBXGroup;
 			children = (
-				A023769722C8C7C7001D33FC /* Sort */,
+				A041F15B22CB1450008B833D /* Template */,
+				A041F15A22CB13F0008B833D /* DataStructure */,
 				A0D8BE3722771DD4007963E4 /* LinkedList */,
 				A06605202260CAD500268244 /* Bit */,
 				A0F2DF6F225A35CE00ED80D7 /* Stack */,
@@ -625,12 +626,35 @@
 				A001B6D5223F8AD300D18968 /* Tree */,
 				A040DE4B2218FC3E00763BDC /* main.swift */,
 				A0122E0A221E3D3900D87CF1 /* Reversal ListNode.swift */,
-				A0065A31221E47C900B2CEBD /* TreeNode.swift */,
-				A001B6D6223F8AEE00D18968 /* TreeOrder.swift */,
-				A0065A33221E47ED00B2CEBD /* Stack.swift */,
-				A01A396A224E474B00DD9E73 /* ListNode.swift */,
 			);
 			path = "swift-leetcode";
+			sourceTree = "<group>";
+		};
+		A041F15A22CB13F0008B833D /* DataStructure */ = {
+			isa = PBXGroup;
+			children = (
+				A0065A31221E47C900B2CEBD /* TreeNode.swift */,
+				A01A396A224E474B00DD9E73 /* ListNode.swift */,
+				A0065A33221E47ED00B2CEBD /* Stack.swift */,
+			);
+			path = DataStructure;
+			sourceTree = "<group>";
+		};
+		A041F15B22CB1450008B833D /* Template */ = {
+			isa = PBXGroup;
+			children = (
+				A041F15C22CB1464008B833D /* Tree */,
+				A023769722C8C7C7001D33FC /* Sort */,
+			);
+			path = Template;
+			sourceTree = "<group>";
+		};
+		A041F15C22CB1464008B833D /* Tree */ = {
+			isa = PBXGroup;
+			children = (
+				A001B6D6223F8AEE00D18968 /* TreeOrder.swift */,
+			);
+			path = Tree;
 			sourceTree = "<group>";
 		};
 		A06605202260CAD500268244 /* Bit */ = {

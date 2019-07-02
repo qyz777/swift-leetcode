@@ -16,9 +16,20 @@
 
 ### 排序模板
 
-归并排序、快速排序和堆排序的实现⤵️
+1. 归并排序
+2. 快速排序
+3. 堆排序的
 
-[排序](https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/Sort/ArraySort.swift)
+[排序](https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/Template/Sort/ArraySort.swift)
+
+### 树遍历模板
+
+1. 层序遍历
+2. 前序遍历递归和非递归
+3. 中序遍历递归和非递归
+4. 后续遍历递归和非递归
+
+[树遍历](https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/Template/Sort/TreeOrder.swift)
 
 ## 题目
 
@@ -263,4 +274,4 @@
 
 ## License
 
-[MIT](https://github.com/qyz777/swift-leetcode/LICENSE)
+[MIT](https://github.com/qyz777/swift-leetcode/blob/master/LICENSE)
