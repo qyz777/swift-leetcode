@@ -180,6 +180,7 @@
 | 338  | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/Bit/338.swift |
 | 343  | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/DP/343.swift |
 | 344  | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/Array/324.swift |
+| 347  | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/Heap/347.swift |
 | 357  | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/DP/357.swift |
 | 392  | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/DP/392.swift |
 | 394  | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/Stack/394.swift |
