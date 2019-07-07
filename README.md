@@ -278,6 +278,7 @@
 | 1028 | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/Tree/1028.swift |
 | 1030 | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/Array/1030.swift |
 | 1038 | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/Tree/1038.swift |
+| 1089 | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/Array/1089.swift |
 
 ## License
 
