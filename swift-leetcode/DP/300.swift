@@ -8,6 +8,14 @@
 
 import Foundation
 
+/**
+ 
+ 最长上升子序列
+ 递推公式: dp[i] = max(dp[0]...dp[i - 1]) + 1 || 1
+ 其中dp[i]表示nums[i]的最长子序列长度
+ 
+ */
+
 func lengthOfLIS(_ nums: [Int]) -> Int {
     guard nums.count > 0 else {
         return 0

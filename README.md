@@ -28,12 +28,14 @@
 2. 前序遍历递归和非递归
 3. 中序遍历递归和非递归
 4. 后续遍历递归和非递归
+5. [垂序遍历](https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/Tree/987.swift)
 
-[树遍历](https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/Template/Tree/TreeOrder.swift)
+[树遍历(1-4)](https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/Template/Tree/TreeOrder.swift)
 
 ### 链表模板
 
 1. [不使用栈的方式翻转链表](https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/Template/List/ReversalListNode.swift)
+2. [合并两个有序链表](https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/LinkedList/21.swift)
 
 ## 题目
 
@@ -280,6 +282,7 @@
 | 1028 | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/Tree/1028.swift |
 | 1030 | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/Array/1030.swift |
 | 1038 | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/Tree/1038.swift |
+| 1079 | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/Backtracking/1079.swift |
 | 1089 | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/Array/1089.swift |
 
 ## License
