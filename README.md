@@ -175,6 +175,7 @@
 | 257  | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/DFS/257.swift |
 | 264  | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/DP/264.swift |
 | 268  | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/Array/268.swift |
+| 274  | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/Array/274.swift |
 | 279  | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/DP/279.swift |
 | 283  | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/Array/283.swift |
 | 292  | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/Array/292.swift |
