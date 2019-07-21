@@ -45,6 +45,7 @@
 | 2    | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/LinkedList/2.swift |
 | 3    | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/Array/3.swift |
 | 4    | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/Array/4.swift |
+| 5    | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/DP/5.swift |
 | 6    | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/Array/6.swift |
 | 7    | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/Array/7.swift |
 | 9    | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/Array/9.swift |
