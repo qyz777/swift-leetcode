@@ -195,6 +195,7 @@
 | 344  | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/Array/344.swift |
 | 347  | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/Heap/347.swift |
 | 349  | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/Array/349.swift |
+| 350  | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/Array/350.swift |
 | 357  | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/DP/357.swift |
 | 378  | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/Heap/378.swift |
 | 392  | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/DP/392.swift |
