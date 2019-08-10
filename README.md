@@ -67,6 +67,7 @@
 | 26   | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/Array/26.swift |
 | 27   | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/Array/27.swift |
 | 28   | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/Array/28.swift |
+| 29   | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/Array/29.swift |
 | 33   | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/Array/33.swift |
 | 34   | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/Array/34.swift |
 | 35   | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/Array/35.swift |
