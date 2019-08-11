@@ -192,6 +192,7 @@
 | 300  | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/DP/300.swift |
 | 322  | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/DP/322.swift |
 | 328  | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/LinkedList/328.swift |
+| 331  | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/Stack/331.swift |
 | 337  | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/Tree/337.swift |
 | 338  | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/Bit/338.swift |
 | 343  | https://github.com/qyz777/swift-leetcode/blob/master/swift-leetcode/DP/343.swift |
